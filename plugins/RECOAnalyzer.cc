@@ -77,15 +77,11 @@ class RECOAnalyzer : public edm::EDAnalyzer {
 
       TH1F *nvtx;
       TH1F *elnum, *elden, *munum, *muden, *btnum, *btden;
-      TH1F *munumt, *mudent, *munumt3, *mudent3;
-      TH1F *elnumt, *eldent, *elnumt3, *eldent3;
       TH1F *elnum3, *elden3, *munum3, *muden3, *btnum3, *btden3;
       TH1F *mtnum, *mtden, *mtnum3, *mtden3;
 
       TH2F *elcutflow, *mucutflow;
       TH1F *eletanum, *eletaden, *muetanum, *muetaden, *btetanum, *btetaden;
-      TH1F *muetanumt, *muetadent, *muetanumt3, *muetadent3;
-      TH1F *eletanumt, *eletadent, *eletanumt3, *eletadent3;
       TH1F *eletanum3, *eletaden3, *muetanum3, *muetaden3, *btetanum3, *btetaden3;
       TH1F *mtetanum, *mtetaden, *mtetanum3, *mtetaden3;
       TH2F *eletacutflow, *muetacutflow;
@@ -124,18 +120,10 @@ RECOAnalyzer::RECOAnalyzer(const edm::ParameterSet& iConfig):
     elden     = fs->make<TH1F>( "elden", "elden" , 100, 0, 1000);
     elnum3     = fs->make<TH1F>( "elnum3", "elnum3" , 100, 0, 1000);
     elden3     = fs->make<TH1F>( "elden3", "elden3" , 100, 0, 1000);
-    elnumt     = fs->make<TH1F>( "elnumt", "elnumt" , 100, 0, 1000);
-    eldent     = fs->make<TH1F>( "eldent", "eldent" , 100, 0, 1000);
-    elnumt3     = fs->make<TH1F>( "elnumt3", "elnumt3" , 100, 0, 1000);
-    eldent3     = fs->make<TH1F>( "eldent3", "eldent3" , 100, 0, 1000);
     munum     = fs->make<TH1F>( "munum", "munum" , 100, 0, 1000);
     muden     = fs->make<TH1F>( "muden", "muden" , 100, 0, 1000);
     munum3     = fs->make<TH1F>( "munum3", "munum3" , 100, 0, 1000);
     muden3     = fs->make<TH1F>( "muden3", "muden3" , 100, 0, 1000);
-    munumt     = fs->make<TH1F>( "munumt", "munumt" , 100, 0, 1000);
-    mudent     = fs->make<TH1F>( "mudent", "mudent" , 100, 0, 1000);
-    munumt3     = fs->make<TH1F>( "munumt3", "munumt3" , 100, 0, 1000);
-    mudent3     = fs->make<TH1F>( "mudent3", "mudent3" , 100, 0, 1000);
     btnum     = fs->make<TH1F>( "btnum", "btnum" , 100, 0, 1000);
     btden     = fs->make<TH1F>( "btden", "btden" , 100, 0, 1000);
     btnum3     = fs->make<TH1F>( "btnum3", "btnum3" , 100, 0, 1000);
@@ -148,18 +136,10 @@ RECOAnalyzer::RECOAnalyzer(const edm::ParameterSet& iConfig):
     eletaden     = fs->make<TH1F>( "eletaden", "eletaden" , 60, -3, 3);
     eletanum3     = fs->make<TH1F>( "eletanum3", "eletanum3" , 60, -3, 3);
     eletaden3     = fs->make<TH1F>( "eletaden3", "eletaden3" , 60, -3, 3);
-    eletanumt     = fs->make<TH1F>( "eletanumt", "eletanumt" , 60, -3, 3);
-    eletadent     = fs->make<TH1F>( "eletadent", "eletadent" , 60, -3, 3);
-    eletanumt3     = fs->make<TH1F>( "eletanumt3", "eletanumt3" , 60, -3, 3);
-    eletadent3     = fs->make<TH1F>( "eletadent3", "eletadent3" , 60, -3, 3);
     muetanum     = fs->make<TH1F>( "muetanum", "muetanum" , 60, -3, 3);
     muetaden     = fs->make<TH1F>( "muetaden", "muetaden" , 60, -3, 3);
     muetanum3     = fs->make<TH1F>( "muetanum3", "muetanum3" , 60, -3, 3);
     muetaden3     = fs->make<TH1F>( "muetaden3", "muetaden3" , 60, -3, 3);
-    muetanumt     = fs->make<TH1F>( "muetanumt", "muetanumt" , 60, -3, 3);
-    muetadent     = fs->make<TH1F>( "muetadent", "muetadent" , 60, -3, 3);
-    muetanumt3     = fs->make<TH1F>( "muetanumt3", "muetanumt3" , 60, -3, 3);
-    muetadent3     = fs->make<TH1F>( "muetadent3", "muetadent3" , 60, -3, 3);
     btetanum     = fs->make<TH1F>( "btetanum", "btetanum" , 60, -3, 3);
     btetaden     = fs->make<TH1F>( "btetaden", "btetaden" , 60, -3, 3);
     btetanum3     = fs->make<TH1F>( "btetanum3", "btetanum3" , 60, -3, 3);
@@ -528,9 +508,7 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
         bool match = false;
         if (pid==11) {
             elden->Fill(g.pt());
-            eldent->Fill(g.pt());
             eletaden->Fill(g.eta());
-            eletadent->Fill(g.eta());
             eldist->Fill(g.pt(),g.eta());
             for (unsigned int i=0; i<rev.size(); i++) {
                 if (tmpvec.DeltaR(rev[i])<0.3 && fabs((g.pt()-rev[i].Pt())/g.pt()) < 0.5 ) {
@@ -542,23 +520,10 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
                 elnum->Fill(g.pt());
                 eletanum->Fill(g.eta());
             }
-            match = false;
-            for (unsigned int i=0; i<retv.size(); i++) {
-                if (tmpvec.DeltaR(retv[i])<0.3 && fabs((g.pt()-retv[i].Pt())/g.pt()) < 0.5 ) {
-                    match=true;
-                    break;
-                }
-            }
-            if (match) {
-                elnumt->Fill(g.pt());
-                eletanumt->Fill(g.eta());
-            }
         }
         if (pid==13) {
             muden->Fill(g.pt());
-            mudent->Fill(g.pt());
             muetaden->Fill(g.eta());
-            muetadent->Fill(g.eta());
             mudist->Fill(g.pt(),g.eta());
             for (unsigned int i=0; i<rmv.size(); i++) {
                 if (tmpvec.DeltaR(rmv[i])<0.3 && fabs((g.pt()-rmv[i].Pt())/g.pt()) < 0.5 ) {
@@ -569,17 +534,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             if (match) {
                 munum->Fill(g.pt());
                 muetanum->Fill(g.eta());
-            }
-            match = false;
-            for (unsigned int i=0; i<rmtv.size(); i++) {
-                if (tmpvec.DeltaR(rmtv[i])<0.3 && fabs((g.pt()-rmtv[i].Pt())/g.pt()) < 0.5 ) {
-                    match=true;
-                    break;
-                }
-            }
-            if (match) {
-                munumt->Fill(g.pt());
-                muetanumt->Fill(g.eta());
             }
         }
     }
@@ -593,9 +547,7 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
         bool match = false;
         if (pid==11) {
             elden3->Fill(g.pt());
-            eldent3->Fill(g.pt());
             eletaden3->Fill(g.eta());
-            eletadent3->Fill(g.eta());
             for (unsigned int i=0; i<rev.size(); i++) {
                 if (tmpvec.DeltaR(rev[i])<0.3 && fabs((g.pt()-rev[i].Pt())/g.pt()) < 0.5 ) {
                     match=true;
@@ -606,23 +558,10 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
                 elnum3->Fill(g.pt());
                 eletanum3->Fill(g.eta());
             }
-            match = false;
-            for (unsigned int i=0; i<retv.size(); i++) {
-                if (tmpvec.DeltaR(retv[i])<0.3 && fabs((g.pt()-retv[i].Pt())/g.pt()) < 0.5 ) {
-                    match=true;
-                    break;
-                }
-            }
-            if (match) {
-                elnumt3->Fill(g.pt());
-                eletanumt3->Fill(g.eta());
-            }
         }
         if (pid==13) {
             muden3->Fill(g.pt());
-            mudent3->Fill(g.pt());
             muetaden3->Fill(g.eta());
-            muetadent3->Fill(g.eta());
             for (unsigned int i=0; i<rmv.size(); i++) {
                 if (tmpvec.DeltaR(rmv[i])<0.3 && fabs((g.pt()-rmv[i].Pt())/g.pt()) < 0.5 ) {
                     match=true;
@@ -632,17 +571,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             if (match) {
                 munum3->Fill(g.pt());
                 muetanum3->Fill(g.eta());
-            }
-            match = false;
-            for (unsigned int i=0; i<rmtv.size(); i++) {
-                if (tmpvec.DeltaR(rmtv[i])<0.3 && fabs((g.pt()-rmtv[i].Pt())/g.pt()) < 0.5 ) {
-                    match=true;
-                    break;
-                }
-            }
-            if (match) {
-                munumt3->Fill(g.pt());
-                muetanumt3->Fill(g.eta());
             }
         }
     }
