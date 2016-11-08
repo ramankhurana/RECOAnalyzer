@@ -1,0 +1,1029 @@
+19-Sep-2016 10:23:03 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/0A61CD3D-7455-E611-B742-0025905B85DC.root
+19-Sep-2016 10:23:08 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/0A61CD3D-7455-E611-B742-0025905B85DC.root
+Begin processing the 1st record. Run 1, Event 4005, LumiSection 41 at 19-Sep-2016 10:23:44.442 CDT
+Begin processing the 11th record. Run 1, Event 4011, LumiSection 41 at 19-Sep-2016 10:23:54.807 CDT
+Begin processing the 21st record. Run 1, Event 4022, LumiSection 41 at 19-Sep-2016 10:23:55.234 CDT
+Begin processing the 31st record. Run 1, Event 4031, LumiSection 41 at 19-Sep-2016 10:23:55.737 CDT
+Begin processing the 41st record. Run 1, Event 4041, LumiSection 41 at 19-Sep-2016 10:23:56.222 CDT
+Begin processing the 51st record. Run 1, Event 4053, LumiSection 41 at 19-Sep-2016 10:23:56.695 CDT
+Begin processing the 61st record. Run 1, Event 4061, LumiSection 41 at 19-Sep-2016 10:23:57.189 CDT
+Begin processing the 71st record. Run 1, Event 4072, LumiSection 41 at 19-Sep-2016 10:23:57.600 CDT
+Begin processing the 81st record. Run 1, Event 4084, LumiSection 41 at 19-Sep-2016 10:23:58.081 CDT
+Begin processing the 91st record. Run 1, Event 4091, LumiSection 41 at 19-Sep-2016 10:23:58.619 CDT
+Begin processing the 101st record. Run 1, Event 7605, LumiSection 77 at 19-Sep-2016 10:23:59.031 CDT
+Begin processing the 111th record. Run 1, Event 7609, LumiSection 77 at 19-Sep-2016 10:23:59.457 CDT
+Begin processing the 121st record. Run 1, Event 7618, LumiSection 77 at 19-Sep-2016 10:23:59.875 CDT
+Begin processing the 131st record. Run 1, Event 7625, LumiSection 77 at 19-Sep-2016 10:24:00.264 CDT
+Begin processing the 141st record. Run 1, Event 7644, LumiSection 77 at 19-Sep-2016 10:24:00.678 CDT
+Begin processing the 151st record. Run 1, Event 7638, LumiSection 77 at 19-Sep-2016 10:24:01.133 CDT
+Begin processing the 161st record. Run 1, Event 7661, LumiSection 77 at 19-Sep-2016 10:24:01.568 CDT
+Begin processing the 171st record. Run 1, Event 7674, LumiSection 77 at 19-Sep-2016 10:24:01.923 CDT
+Begin processing the 181st record. Run 1, Event 7680, LumiSection 77 at 19-Sep-2016 10:24:02.177 CDT
+Begin processing the 191st record. Run 1, Event 7686, LumiSection 77 at 19-Sep-2016 10:24:02.502 CDT
+19-Sep-2016 10:24:02 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/0A61CD3D-7455-E611-B742-0025905B85DC.root
+19-Sep-2016 10:24:02 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/147E2900-7555-E611-BF8B-0025905A48C0.root
+19-Sep-2016 10:24:04 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/147E2900-7555-E611-BF8B-0025905A48C0.root
+Begin processing the 201st record. Run 1, Event 2605, LumiSection 27 at 19-Sep-2016 10:24:05.322 CDT
+Begin processing the 211th record. Run 1, Event 2608, LumiSection 27 at 19-Sep-2016 10:24:10.582 CDT
+Begin processing the 221st record. Run 1, Event 2617, LumiSection 27 at 19-Sep-2016 10:24:10.896 CDT
+Begin processing the 231st record. Run 1, Event 2633, LumiSection 27 at 19-Sep-2016 10:24:11.175 CDT
+Begin processing the 241st record. Run 1, Event 2641, LumiSection 27 at 19-Sep-2016 10:24:11.447 CDT
+Begin processing the 251st record. Run 1, Event 2645, LumiSection 27 at 19-Sep-2016 10:24:11.739 CDT
+Begin processing the 261st record. Run 1, Event 2654, LumiSection 27 at 19-Sep-2016 10:24:12.001 CDT
+Begin processing the 271st record. Run 1, Event 2674, LumiSection 27 at 19-Sep-2016 10:24:12.236 CDT
+Begin processing the 281st record. Run 1, Event 2679, LumiSection 27 at 19-Sep-2016 10:24:12.457 CDT
+Begin processing the 291st record. Run 1, Event 2691, LumiSection 27 at 19-Sep-2016 10:24:12.666 CDT
+Begin processing the 301st record. Run 1, Event 3005, LumiSection 31 at 19-Sep-2016 10:24:12.819 CDT
+Begin processing the 311th record. Run 1, Event 3010, LumiSection 31 at 19-Sep-2016 10:24:12.977 CDT
+Begin processing the 321st record. Run 1, Event 3024, LumiSection 31 at 19-Sep-2016 10:24:13.237 CDT
+Begin processing the 331st record. Run 1, Event 3027, LumiSection 31 at 19-Sep-2016 10:24:13.510 CDT
+Begin processing the 341st record. Run 1, Event 3043, LumiSection 31 at 19-Sep-2016 10:24:13.672 CDT
+Begin processing the 351st record. Run 1, Event 3052, LumiSection 31 at 19-Sep-2016 10:24:13.812 CDT
+Begin processing the 361st record. Run 1, Event 3059, LumiSection 31 at 19-Sep-2016 10:24:13.961 CDT
+Begin processing the 371st record. Run 1, Event 3067, LumiSection 31 at 19-Sep-2016 10:24:14.116 CDT
+Begin processing the 381st record. Run 1, Event 3079, LumiSection 31 at 19-Sep-2016 10:24:14.265 CDT
+Begin processing the 391st record. Run 1, Event 3094, LumiSection 31 at 19-Sep-2016 10:24:14.418 CDT
+Begin processing the 401st record. Run 1, Event 4206, LumiSection 43 at 19-Sep-2016 10:24:14.587 CDT
+Begin processing the 411th record. Run 1, Event 4214, LumiSection 43 at 19-Sep-2016 10:24:14.738 CDT
+Begin processing the 421st record. Run 1, Event 4223, LumiSection 43 at 19-Sep-2016 10:24:14.899 CDT
+Begin processing the 431st record. Run 1, Event 4234, LumiSection 43 at 19-Sep-2016 10:24:15.061 CDT
+Begin processing the 441st record. Run 1, Event 4242, LumiSection 43 at 19-Sep-2016 10:24:15.230 CDT
+Begin processing the 451st record. Run 1, Event 4254, LumiSection 43 at 19-Sep-2016 10:24:17.388 CDT
+Begin processing the 461st record. Run 1, Event 4260, LumiSection 43 at 19-Sep-2016 10:24:17.718 CDT
+Begin processing the 471st record. Run 1, Event 4274, LumiSection 43 at 19-Sep-2016 10:24:18.048 CDT
+Begin processing the 481st record. Run 1, Event 4281, LumiSection 43 at 19-Sep-2016 10:24:18.280 CDT
+Begin processing the 491st record. Run 1, Event 4295, LumiSection 43 at 19-Sep-2016 10:24:18.581 CDT
+19-Sep-2016 10:24:18 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/147E2900-7555-E611-BF8B-0025905A48C0.root
+19-Sep-2016 10:24:18 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/1AD3B693-7155-E611-814F-0025905A48C0.root
+19-Sep-2016 10:24:19 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/1AD3B693-7155-E611-814F-0025905A48C0.root
+Begin processing the 501st record. Run 1, Event 903, LumiSection 10 at 19-Sep-2016 10:24:21.112 CDT
+Begin processing the 511th record. Run 1, Event 913, LumiSection 10 at 19-Sep-2016 10:24:24.389 CDT
+Begin processing the 521st record. Run 1, Event 921, LumiSection 10 at 19-Sep-2016 10:24:24.696 CDT
+Begin processing the 531st record. Run 1, Event 927, LumiSection 10 at 19-Sep-2016 10:24:24.993 CDT
+Begin processing the 541st record. Run 1, Event 944, LumiSection 10 at 19-Sep-2016 10:24:25.203 CDT
+Begin processing the 551st record. Run 1, Event 946, LumiSection 10 at 19-Sep-2016 10:24:25.349 CDT
+Begin processing the 561st record. Run 1, Event 963, LumiSection 10 at 19-Sep-2016 10:24:25.511 CDT
+Begin processing the 571st record. Run 1, Event 972, LumiSection 10 at 19-Sep-2016 10:24:25.757 CDT
+Begin processing the 581st record. Run 1, Event 981, LumiSection 10 at 19-Sep-2016 10:24:26.009 CDT
+Begin processing the 591st record. Run 1, Event 993, LumiSection 10 at 19-Sep-2016 10:24:26.169 CDT
+Begin processing the 601st record. Run 1, Event 4404, LumiSection 45 at 19-Sep-2016 10:24:26.336 CDT
+Begin processing the 611th record. Run 1, Event 4413, LumiSection 45 at 19-Sep-2016 10:24:26.478 CDT
+Begin processing the 621st record. Run 1, Event 4420, LumiSection 45 at 19-Sep-2016 10:24:26.725 CDT
+Begin processing the 631st record. Run 1, Event 4432, LumiSection 45 at 19-Sep-2016 10:24:26.992 CDT
+Begin processing the 641st record. Run 1, Event 4444, LumiSection 45 at 19-Sep-2016 10:24:27.167 CDT
+Begin processing the 651st record. Run 1, Event 4450, LumiSection 45 at 19-Sep-2016 10:24:27.330 CDT
+Begin processing the 661st record. Run 1, Event 4455, LumiSection 45 at 19-Sep-2016 10:24:27.489 CDT
+Begin processing the 671st record. Run 1, Event 4470, LumiSection 45 at 19-Sep-2016 10:24:27.758 CDT
+Begin processing the 681st record. Run 1, Event 4485, LumiSection 45 at 19-Sep-2016 10:24:28.028 CDT
+Begin processing the 691st record. Run 1, Event 4489, LumiSection 45 at 19-Sep-2016 10:24:28.187 CDT
+Begin processing the 701st record. Run 1, Event 7404, LumiSection 75 at 19-Sep-2016 10:24:28.354 CDT
+Begin processing the 711th record. Run 1, Event 7413, LumiSection 75 at 19-Sep-2016 10:24:28.522 CDT
+Begin processing the 721st record. Run 1, Event 7422, LumiSection 75 at 19-Sep-2016 10:24:28.805 CDT
+Begin processing the 731st record. Run 1, Event 7434, LumiSection 75 at 19-Sep-2016 10:24:29.049 CDT
+Begin processing the 741st record. Run 1, Event 7444, LumiSection 75 at 19-Sep-2016 10:24:29.204 CDT
+Begin processing the 751st record. Run 1, Event 7454, LumiSection 75 at 19-Sep-2016 10:24:30.175 CDT
+Begin processing the 761st record. Run 1, Event 7462, LumiSection 75 at 19-Sep-2016 10:24:30.457 CDT
+Begin processing the 771st record. Run 1, Event 7471, LumiSection 75 at 19-Sep-2016 10:24:30.675 CDT
+Begin processing the 781st record. Run 1, Event 7483, LumiSection 75 at 19-Sep-2016 10:24:30.868 CDT
+Begin processing the 791st record. Run 1, Event 7492, LumiSection 75 at 19-Sep-2016 10:24:31.028 CDT
+19-Sep-2016 10:24:31 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/1AD3B693-7155-E611-814F-0025905A48C0.root
+19-Sep-2016 10:24:31 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/207DB223-7255-E611-BD8E-0025905B8592.root
+19-Sep-2016 10:24:32 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/207DB223-7255-E611-BD8E-0025905B8592.root
+Begin processing the 801st record. Run 1, Event 4504, LumiSection 46 at 19-Sep-2016 10:24:33.514 CDT
+Begin processing the 811th record. Run 1, Event 4513, LumiSection 46 at 19-Sep-2016 10:24:41.297 CDT
+Begin processing the 821st record. Run 1, Event 4524, LumiSection 46 at 19-Sep-2016 10:24:41.631 CDT
+Begin processing the 831st record. Run 1, Event 4529, LumiSection 46 at 19-Sep-2016 10:24:41.895 CDT
+Begin processing the 841st record. Run 1, Event 4541, LumiSection 46 at 19-Sep-2016 10:24:42.168 CDT
+Begin processing the 851st record. Run 1, Event 4554, LumiSection 46 at 19-Sep-2016 10:24:42.408 CDT
+Begin processing the 861st record. Run 1, Event 4561, LumiSection 46 at 19-Sep-2016 10:24:42.599 CDT
+Begin processing the 871st record. Run 1, Event 4559, LumiSection 46 at 19-Sep-2016 10:24:42.766 CDT
+Begin processing the 881st record. Run 1, Event 4579, LumiSection 46 at 19-Sep-2016 10:24:42.909 CDT
+Begin processing the 891st record. Run 1, Event 4588, LumiSection 46 at 19-Sep-2016 10:24:43.054 CDT
+Begin processing the 901st record. Run 1, Event 4602, LumiSection 47 at 19-Sep-2016 10:24:43.222 CDT
+Begin processing the 911th record. Run 1, Event 4613, LumiSection 47 at 19-Sep-2016 10:24:43.364 CDT
+Begin processing the 921st record. Run 1, Event 4624, LumiSection 47 at 19-Sep-2016 10:24:43.594 CDT
+Begin processing the 931st record. Run 1, Event 4627, LumiSection 47 at 19-Sep-2016 10:24:43.859 CDT
+Begin processing the 941st record. Run 1, Event 4639, LumiSection 47 at 19-Sep-2016 10:24:44.085 CDT
+Begin processing the 951st record. Run 1, Event 4652, LumiSection 47 at 19-Sep-2016 10:24:44.270 CDT
+Begin processing the 961st record. Run 1, Event 4662, LumiSection 47 at 19-Sep-2016 10:24:44.416 CDT
+Begin processing the 971st record. Run 1, Event 4674, LumiSection 47 at 19-Sep-2016 10:24:44.565 CDT
+Begin processing the 981st record. Run 1, Event 4678, LumiSection 47 at 19-Sep-2016 10:24:44.713 CDT
+Begin processing the 991st record. Run 1, Event 4689, LumiSection 47 at 19-Sep-2016 10:24:44.883 CDT
+Begin processing the 1001st record. Run 1, Event 5504, LumiSection 56 at 19-Sep-2016 10:24:45.031 CDT
+Begin processing the 1011th record. Run 1, Event 5505, LumiSection 56 at 19-Sep-2016 10:24:45.172 CDT
+Begin processing the 1021st record. Run 1, Event 5518, LumiSection 56 at 19-Sep-2016 10:24:45.321 CDT
+Begin processing the 1031st record. Run 1, Event 5533, LumiSection 56 at 19-Sep-2016 10:24:45.467 CDT
+Begin processing the 1041st record. Run 1, Event 5538, LumiSection 56 at 19-Sep-2016 10:24:45.608 CDT
+Begin processing the 1051st record. Run 1, Event 5541, LumiSection 56 at 19-Sep-2016 10:24:47.595 CDT
+Begin processing the 1061st record. Run 1, Event 5564, LumiSection 56 at 19-Sep-2016 10:24:47.884 CDT
+Begin processing the 1071st record. Run 1, Event 5575, LumiSection 56 at 19-Sep-2016 10:24:48.087 CDT
+Begin processing the 1081st record. Run 1, Event 5586, LumiSection 56 at 19-Sep-2016 10:24:48.242 CDT
+Begin processing the 1091st record. Run 1, Event 5578, LumiSection 56 at 19-Sep-2016 10:24:48.404 CDT
+19-Sep-2016 10:24:48 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/207DB223-7255-E611-BD8E-0025905B8592.root
+19-Sep-2016 10:24:48 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/224B7613-7155-E611-AB76-0025905B85CA.root
+19-Sep-2016 10:24:49 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/224B7613-7155-E611-AB76-0025905B85CA.root
+Begin processing the 1101st record. Run 1, Event 5904, LumiSection 60 at 19-Sep-2016 10:24:50.743 CDT
+Begin processing the 1111th record. Run 1, Event 5913, LumiSection 60 at 19-Sep-2016 10:24:53.745 CDT
+Begin processing the 1121st record. Run 1, Event 5922, LumiSection 60 at 19-Sep-2016 10:24:54.019 CDT
+Begin processing the 1131st record. Run 1, Event 5932, LumiSection 60 at 19-Sep-2016 10:24:54.181 CDT
+Begin processing the 1141st record. Run 1, Event 5939, LumiSection 60 at 19-Sep-2016 10:24:54.334 CDT
+Begin processing the 1151st record. Run 1, Event 5953, LumiSection 60 at 19-Sep-2016 10:24:54.490 CDT
+Begin processing the 1161st record. Run 1, Event 5952, LumiSection 60 at 19-Sep-2016 10:24:54.634 CDT
+Begin processing the 1171st record. Run 1, Event 5974, LumiSection 60 at 19-Sep-2016 10:24:54.791 CDT
+Begin processing the 1181st record. Run 1, Event 5981, LumiSection 60 at 19-Sep-2016 10:24:54.954 CDT
+Begin processing the 1191st record. Run 1, Event 5991, LumiSection 60 at 19-Sep-2016 10:24:55.116 CDT
+Begin processing the 1201st record. Run 1, Event 6405, LumiSection 65 at 19-Sep-2016 10:24:55.258 CDT
+%MSG-e JetPtMismatch:  JetFlavourClustering:ak4JetFlavourInfos  19-Sep-2016 10:24:55 CDT Run: 1 Event: 6405
+The reclustered and original jet 15 have different Pt's (12.2747 vs 12.9843 GeV, respectively).
+Please check that the jet algorithm and jet size match those used for the original jet collection and also make sure the original jets are uncorrected. In addition, make sure you are not using CaloJets which are presently not supported.
+
+In extremely rare instances the mismatch could be caused by a difference in the machine precision in which case make sure the original jet collection is produced and reclustering is performed in the same job.
+%MSG
+Begin processing the 1211th record. Run 1, Event 6412, LumiSection 65 at 19-Sep-2016 10:24:55.422 CDT
+Begin processing the 1221st record. Run 1, Event 6420, LumiSection 65 at 19-Sep-2016 10:24:55.579 CDT
+Begin processing the 1231st record. Run 1, Event 6430, LumiSection 65 at 19-Sep-2016 10:24:55.727 CDT
+Begin processing the 1241st record. Run 1, Event 6436, LumiSection 65 at 19-Sep-2016 10:24:55.892 CDT
+Begin processing the 1251st record. Run 1, Event 6442, LumiSection 65 at 19-Sep-2016 10:24:56.041 CDT
+Begin processing the 1261st record. Run 1, Event 6464, LumiSection 65 at 19-Sep-2016 10:24:56.209 CDT
+Begin processing the 1271st record. Run 1, Event 6470, LumiSection 65 at 19-Sep-2016 10:24:56.360 CDT
+Begin processing the 1281st record. Run 1, Event 6483, LumiSection 65 at 19-Sep-2016 10:24:56.522 CDT
+Begin processing the 1291st record. Run 1, Event 6487, LumiSection 65 at 19-Sep-2016 10:24:56.665 CDT
+19-Sep-2016 10:24:56 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/224B7613-7155-E611-AB76-0025905B85CA.root
+19-Sep-2016 10:24:56 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/3027C821-7255-E611-9C8C-0025905B85CA.root
+19-Sep-2016 10:24:57 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/3027C821-7255-E611-9C8C-0025905B85CA.root
+Begin processing the 1301st record. Run 1, Event 3, LumiSection 1 at 19-Sep-2016 10:24:59.128 CDT
+Begin processing the 1311th record. Run 1, Event 9, LumiSection 1 at 19-Sep-2016 10:25:03.860 CDT
+Begin processing the 1321st record. Run 1, Event 26, LumiSection 1 at 19-Sep-2016 10:25:04.185 CDT
+Begin processing the 1331st record. Run 1, Event 34, LumiSection 1 at 19-Sep-2016 10:25:04.473 CDT
+Begin processing the 1341st record. Run 1, Event 38, LumiSection 1 at 19-Sep-2016 10:25:04.633 CDT
+Begin processing the 1351st record. Run 1, Event 48, LumiSection 1 at 19-Sep-2016 10:25:04.784 CDT
+Begin processing the 1361st record. Run 1, Event 64, LumiSection 1 at 19-Sep-2016 10:25:04.940 CDT
+Begin processing the 1371st record. Run 1, Event 72, LumiSection 1 at 19-Sep-2016 10:25:05.082 CDT
+Begin processing the 1381st record. Run 1, Event 84, LumiSection 1 at 19-Sep-2016 10:25:05.221 CDT
+Begin processing the 1391st record. Run 1, Event 91, LumiSection 1 at 19-Sep-2016 10:25:05.385 CDT
+Begin processing the 1401st record. Run 1, Event 2805, LumiSection 29 at 19-Sep-2016 10:25:05.619 CDT
+Begin processing the 1411th record. Run 1, Event 2810, LumiSection 29 at 19-Sep-2016 10:25:05.899 CDT
+Begin processing the 1421st record. Run 1, Event 2821, LumiSection 29 at 19-Sep-2016 10:25:06.093 CDT
+Begin processing the 1431st record. Run 1, Event 2831, LumiSection 29 at 19-Sep-2016 10:25:06.239 CDT
+Begin processing the 1441st record. Run 1, Event 2844, LumiSection 29 at 19-Sep-2016 10:25:06.404 CDT
+Begin processing the 1451st record. Run 1, Event 2854, LumiSection 29 at 19-Sep-2016 10:25:06.554 CDT
+Begin processing the 1461st record. Run 1, Event 2863, LumiSection 29 at 19-Sep-2016 10:25:06.715 CDT
+Begin processing the 1471st record. Run 1, Event 2873, LumiSection 29 at 19-Sep-2016 10:25:06.849 CDT
+Begin processing the 1481st record. Run 1, Event 2882, LumiSection 29 at 19-Sep-2016 10:25:06.984 CDT
+Begin processing the 1491st record. Run 1, Event 2889, LumiSection 29 at 19-Sep-2016 10:25:07.215 CDT
+Begin processing the 1501st record. Run 1, Event 3403, LumiSection 35 at 19-Sep-2016 10:25:07.479 CDT
+Begin processing the 1511th record. Run 1, Event 3406, LumiSection 35 at 19-Sep-2016 10:25:07.634 CDT
+Begin processing the 1521st record. Run 1, Event 3424, LumiSection 35 at 19-Sep-2016 10:25:07.801 CDT
+Begin processing the 1531st record. Run 1, Event 3433, LumiSection 35 at 19-Sep-2016 10:25:07.960 CDT
+Begin processing the 1541st record. Run 1, Event 3437, LumiSection 35 at 19-Sep-2016 10:25:08.116 CDT
+Begin processing the 1551st record. Run 1, Event 3446, LumiSection 35 at 19-Sep-2016 10:25:10.506 CDT
+Begin processing the 1561st record. Run 1, Event 3460, LumiSection 35 at 19-Sep-2016 10:25:10.764 CDT
+Begin processing the 1571st record. Run 1, Event 3462, LumiSection 35 at 19-Sep-2016 10:25:11.084 CDT
+Begin processing the 1581st record. Run 1, Event 3481, LumiSection 35 at 19-Sep-2016 10:25:11.374 CDT
+Begin processing the 1591st record. Run 1, Event 3494, LumiSection 35 at 19-Sep-2016 10:25:11.580 CDT
+19-Sep-2016 10:25:11 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/3027C821-7255-E611-9C8C-0025905B85CA.root
+19-Sep-2016 10:25:11 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/32686213-7155-E611-82A3-0025905B85CA.root
+19-Sep-2016 10:25:12 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/32686213-7155-E611-82A3-0025905B85CA.root
+Begin processing the 1601st record. Run 1, Event 7101, LumiSection 72 at 19-Sep-2016 10:25:13.874 CDT
+Begin processing the 1611th record. Run 1, Event 7113, LumiSection 72 at 19-Sep-2016 10:25:17.483 CDT
+Begin processing the 1621st record. Run 1, Event 7124, LumiSection 72 at 19-Sep-2016 10:25:17.810 CDT
+Begin processing the 1631st record. Run 1, Event 7132, LumiSection 72 at 19-Sep-2016 10:25:18.066 CDT
+Begin processing the 1641st record. Run 1, Event 7143, LumiSection 72 at 19-Sep-2016 10:25:18.215 CDT
+Begin processing the 1651st record. Run 1, Event 7152, LumiSection 72 at 19-Sep-2016 10:25:18.362 CDT
+Begin processing the 1661st record. Run 1, Event 7164, LumiSection 72 at 19-Sep-2016 10:25:18.590 CDT
+Begin processing the 1671st record. Run 1, Event 7172, LumiSection 72 at 19-Sep-2016 10:25:18.865 CDT
+Begin processing the 1681st record. Run 1, Event 7183, LumiSection 72 at 19-Sep-2016 10:25:19.096 CDT
+Begin processing the 1691st record. Run 1, Event 7194, LumiSection 72 at 19-Sep-2016 10:25:19.271 CDT
+Begin processing the 1701st record. Run 1, Event 8603, LumiSection 87 at 19-Sep-2016 10:25:19.460 CDT
+Begin processing the 1711th record. Run 1, Event 8614, LumiSection 87 at 19-Sep-2016 10:25:19.613 CDT
+Begin processing the 1721st record. Run 1, Event 8610, LumiSection 87 at 19-Sep-2016 10:25:19.762 CDT
+Begin processing the 1731st record. Run 1, Event 8631, LumiSection 87 at 19-Sep-2016 10:25:19.955 CDT
+Begin processing the 1741st record. Run 1, Event 8643, LumiSection 87 at 19-Sep-2016 10:25:20.112 CDT
+Begin processing the 1751st record. Run 1, Event 8653, LumiSection 87 at 19-Sep-2016 10:25:20.263 CDT
+Begin processing the 1761st record. Run 1, Event 8664, LumiSection 87 at 19-Sep-2016 10:25:20.428 CDT
+Begin processing the 1771st record. Run 1, Event 8675, LumiSection 87 at 19-Sep-2016 10:25:20.602 CDT
+Begin processing the 1781st record. Run 1, Event 8684, LumiSection 87 at 19-Sep-2016 10:25:20.767 CDT
+Begin processing the 1791st record. Run 1, Event 8689, LumiSection 87 at 19-Sep-2016 10:25:20.927 CDT
+19-Sep-2016 10:25:21 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/32686213-7155-E611-82A3-0025905B85CA.root
+19-Sep-2016 10:25:21 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/3AEC1622-7255-E611-B197-0025905B856E.root
+19-Sep-2016 10:25:22 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/3AEC1622-7255-E611-B197-0025905B856E.root
+Begin processing the 1801st record. Run 1, Event 3701, LumiSection 38 at 19-Sep-2016 10:25:23.147 CDT
+Begin processing the 1811th record. Run 1, Event 3711, LumiSection 38 at 19-Sep-2016 10:25:28.379 CDT
+Begin processing the 1821st record. Run 1, Event 3723, LumiSection 38 at 19-Sep-2016 10:25:28.717 CDT
+Begin processing the 1831st record. Run 1, Event 3729, LumiSection 38 at 19-Sep-2016 10:25:29.119 CDT
+Begin processing the 1841st record. Run 1, Event 3741, LumiSection 38 at 19-Sep-2016 10:25:29.517 CDT
+Begin processing the 1851st record. Run 1, Event 3752, LumiSection 38 at 19-Sep-2016 10:25:29.863 CDT
+Begin processing the 1861st record. Run 1, Event 3743, LumiSection 38 at 19-Sep-2016 10:25:30.203 CDT
+Begin processing the 1871st record. Run 1, Event 3774, LumiSection 38 at 19-Sep-2016 10:25:30.546 CDT
+Begin processing the 1881st record. Run 1, Event 3783, LumiSection 38 at 19-Sep-2016 10:25:30.897 CDT
+Begin processing the 1891st record. Run 1, Event 3796, LumiSection 38 at 19-Sep-2016 10:25:31.266 CDT
+Begin processing the 1901st record. Run 1, Event 6307, LumiSection 64 at 19-Sep-2016 10:25:31.630 CDT
+Begin processing the 1911th record. Run 1, Event 6311, LumiSection 64 at 19-Sep-2016 10:25:31.997 CDT
+Begin processing the 1921st record. Run 1, Event 6324, LumiSection 64 at 19-Sep-2016 10:25:32.430 CDT
+Begin processing the 1931st record. Run 1, Event 6334, LumiSection 64 at 19-Sep-2016 10:25:32.804 CDT
+Begin processing the 1941st record. Run 1, Event 6337, LumiSection 64 at 19-Sep-2016 10:25:33.277 CDT
+Begin processing the 1951st record. Run 1, Event 6354, LumiSection 64 at 19-Sep-2016 10:25:33.680 CDT
+Begin processing the 1961st record. Run 1, Event 6363, LumiSection 64 at 19-Sep-2016 10:25:34.151 CDT
+Begin processing the 1971st record. Run 1, Event 6373, LumiSection 64 at 19-Sep-2016 10:25:34.553 CDT
+Begin processing the 1981st record. Run 1, Event 6381, LumiSection 64 at 19-Sep-2016 10:25:34.936 CDT
+Begin processing the 1991st record. Run 1, Event 6391, LumiSection 64 at 19-Sep-2016 10:25:35.328 CDT
+Begin processing the 2001st record. Run 1, Event 8401, LumiSection 85 at 19-Sep-2016 10:25:35.727 CDT
+Begin processing the 2011th record. Run 1, Event 8414, LumiSection 85 at 19-Sep-2016 10:25:36.075 CDT
+Begin processing the 2021st record. Run 1, Event 8423, LumiSection 85 at 19-Sep-2016 10:25:36.441 CDT
+Begin processing the 2031st record. Run 1, Event 8434, LumiSection 85 at 19-Sep-2016 10:25:36.806 CDT
+Begin processing the 2041st record. Run 1, Event 8440, LumiSection 85 at 19-Sep-2016 10:25:37.136 CDT
+Begin processing the 2051st record. Run 1, Event 8454, LumiSection 85 at 19-Sep-2016 10:25:37.583 CDT
+Begin processing the 2061st record. Run 1, Event 8462, LumiSection 85 at 19-Sep-2016 10:25:38.912 CDT
+Begin processing the 2071st record. Run 1, Event 8474, LumiSection 85 at 19-Sep-2016 10:25:39.274 CDT
+Begin processing the 2081st record. Run 1, Event 8476, LumiSection 85 at 19-Sep-2016 10:25:39.638 CDT
+Begin processing the 2091st record. Run 1, Event 8493, LumiSection 85 at 19-Sep-2016 10:25:40.044 CDT
+19-Sep-2016 10:25:40 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/3AEC1622-7255-E611-B197-0025905B856E.root
+19-Sep-2016 10:25:40 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/40C4DA7C-7055-E611-8FE7-0CC47A78A42C.root
+19-Sep-2016 10:25:41 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/40C4DA7C-7055-E611-8FE7-0CC47A78A42C.root
+Begin processing the 2101st record. Run 1, Event 1902, LumiSection 20 at 19-Sep-2016 10:25:42.797 CDT
+Begin processing the 2111th record. Run 1, Event 1911, LumiSection 20 at 19-Sep-2016 10:25:51.572 CDT
+Begin processing the 2121st record. Run 1, Event 1918, LumiSection 20 at 19-Sep-2016 10:25:51.861 CDT
+Begin processing the 2131st record. Run 1, Event 1933, LumiSection 20 at 19-Sep-2016 10:25:52.094 CDT
+Begin processing the 2141st record. Run 1, Event 1937, LumiSection 20 at 19-Sep-2016 10:25:52.256 CDT
+Begin processing the 2151st record. Run 1, Event 1945, LumiSection 20 at 19-Sep-2016 10:25:52.466 CDT
+Begin processing the 2161st record. Run 1, Event 1963, LumiSection 20 at 19-Sep-2016 10:25:52.716 CDT
+Begin processing the 2171st record. Run 1, Event 1973, LumiSection 20 at 19-Sep-2016 10:25:53.008 CDT
+Begin processing the 2181st record. Run 1, Event 1980, LumiSection 20 at 19-Sep-2016 10:25:53.165 CDT
+Begin processing the 2191st record. Run 1, Event 1990, LumiSection 20 at 19-Sep-2016 10:25:53.334 CDT
+Begin processing the 2201st record. Run 1, Event 2702, LumiSection 28 at 19-Sep-2016 10:25:53.572 CDT
+Begin processing the 2211th record. Run 1, Event 2713, LumiSection 28 at 19-Sep-2016 10:25:53.870 CDT
+Begin processing the 2221st record. Run 1, Event 2715, LumiSection 28 at 19-Sep-2016 10:25:54.076 CDT
+Begin processing the 2231st record. Run 1, Event 2731, LumiSection 28 at 19-Sep-2016 10:25:54.237 CDT
+Begin processing the 2241st record. Run 1, Event 2736, LumiSection 28 at 19-Sep-2016 10:25:54.383 CDT
+Begin processing the 2251st record. Run 1, Event 2746, LumiSection 28 at 19-Sep-2016 10:25:54.527 CDT
+Begin processing the 2261st record. Run 1, Event 2765, LumiSection 28 at 19-Sep-2016 10:25:54.700 CDT
+Begin processing the 2271st record. Run 1, Event 2773, LumiSection 28 at 19-Sep-2016 10:25:54.891 CDT
+Begin processing the 2281st record. Run 1, Event 2781, LumiSection 28 at 19-Sep-2016 10:25:55.091 CDT
+Begin processing the 2291st record. Run 1, Event 2792, LumiSection 28 at 19-Sep-2016 10:25:55.406 CDT
+Begin processing the 2301st record. Run 1, Event 5201, LumiSection 53 at 19-Sep-2016 10:25:55.612 CDT
+Begin processing the 2311th record. Run 1, Event 5210, LumiSection 53 at 19-Sep-2016 10:25:55.825 CDT
+Begin processing the 2321st record. Run 1, Event 5223, LumiSection 53 at 19-Sep-2016 10:25:55.983 CDT
+Begin processing the 2331st record. Run 1, Event 5234, LumiSection 53 at 19-Sep-2016 10:25:56.270 CDT
+Begin processing the 2341st record. Run 1, Event 5243, LumiSection 53 at 19-Sep-2016 10:25:56.515 CDT
+Begin processing the 2351st record. Run 1, Event 5253, LumiSection 53 at 19-Sep-2016 10:25:57.831 CDT
+Begin processing the 2361st record. Run 1, Event 5262, LumiSection 53 at 19-Sep-2016 10:25:58.116 CDT
+Begin processing the 2371st record. Run 1, Event 5269, LumiSection 53 at 19-Sep-2016 10:25:58.427 CDT
+Begin processing the 2381st record. Run 1, Event 5285, LumiSection 53 at 19-Sep-2016 10:25:58.612 CDT
+Begin processing the 2391st record. Run 1, Event 5293, LumiSection 53 at 19-Sep-2016 10:25:58.773 CDT
+19-Sep-2016 10:25:58 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/40C4DA7C-7055-E611-8FE7-0CC47A78A42C.root
+19-Sep-2016 10:25:58 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/42B33642-7255-E611-B5BE-0CC47A78A4BA.root
+19-Sep-2016 10:26:00 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/42B33642-7255-E611-B5BE-0CC47A78A4BA.root
+Begin processing the 2401st record. Run 1, Event 5101, LumiSection 52 at 19-Sep-2016 10:26:01.023 CDT
+Begin processing the 2411th record. Run 1, Event 5111, LumiSection 52 at 19-Sep-2016 10:26:05.940 CDT
+Begin processing the 2421st record. Run 1, Event 5123, LumiSection 52 at 19-Sep-2016 10:26:06.345 CDT
+Begin processing the 2431st record. Run 1, Event 5130, LumiSection 52 at 19-Sep-2016 10:26:06.766 CDT
+Begin processing the 2441st record. Run 1, Event 5144, LumiSection 52 at 19-Sep-2016 10:26:07.149 CDT
+Begin processing the 2451st record. Run 1, Event 5149, LumiSection 52 at 19-Sep-2016 10:26:07.545 CDT
+Begin processing the 2461st record. Run 1, Event 5152, LumiSection 52 at 19-Sep-2016 10:26:07.942 CDT
+Begin processing the 2471st record. Run 1, Event 5169, LumiSection 52 at 19-Sep-2016 10:26:08.357 CDT
+Begin processing the 2481st record. Run 1, Event 5183, LumiSection 52 at 19-Sep-2016 10:26:08.917 CDT
+Begin processing the 2491st record. Run 1, Event 5194, LumiSection 52 at 19-Sep-2016 10:26:09.419 CDT
+Begin processing the 2501st record. Run 1, Event 6102, LumiSection 62 at 19-Sep-2016 10:26:09.865 CDT
+Begin processing the 2511th record. Run 1, Event 6113, LumiSection 62 at 19-Sep-2016 10:26:10.216 CDT
+Begin processing the 2521st record. Run 1, Event 6124, LumiSection 62 at 19-Sep-2016 10:26:10.579 CDT
+Begin processing the 2531st record. Run 1, Event 6123, LumiSection 62 at 19-Sep-2016 10:26:11.001 CDT
+Begin processing the 2541st record. Run 1, Event 6144, LumiSection 62 at 19-Sep-2016 10:26:11.357 CDT
+Begin processing the 2551st record. Run 1, Event 6151, LumiSection 62 at 19-Sep-2016 10:26:11.701 CDT
+Begin processing the 2561st record. Run 1, Event 6162, LumiSection 62 at 19-Sep-2016 10:26:12.113 CDT
+Begin processing the 2571st record. Run 1, Event 6175, LumiSection 62 at 19-Sep-2016 10:26:12.432 CDT
+Begin processing the 2581st record. Run 1, Event 6183, LumiSection 62 at 19-Sep-2016 10:26:12.911 CDT
+Begin processing the 2591st record. Run 1, Event 6192, LumiSection 62 at 19-Sep-2016 10:26:13.309 CDT
+Begin processing the 2601st record. Run 1, Event 8202, LumiSection 83 at 19-Sep-2016 10:26:13.764 CDT
+Begin processing the 2611th record. Run 1, Event 8214, LumiSection 83 at 19-Sep-2016 10:26:14.142 CDT
+Begin processing the 2621st record. Run 1, Event 8225, LumiSection 83 at 19-Sep-2016 10:26:14.512 CDT
+Begin processing the 2631st record. Run 1, Event 8229, LumiSection 83 at 19-Sep-2016 10:26:14.852 CDT
+Begin processing the 2641st record. Run 1, Event 8238, LumiSection 83 at 19-Sep-2016 10:26:15.263 CDT
+Begin processing the 2651st record. Run 1, Event 8251, LumiSection 83 at 19-Sep-2016 10:26:17.178 CDT
+Begin processing the 2661st record. Run 1, Event 8262, LumiSection 83 at 19-Sep-2016 10:26:17.554 CDT
+Begin processing the 2671st record. Run 1, Event 8274, LumiSection 83 at 19-Sep-2016 10:26:17.966 CDT
+Begin processing the 2681st record. Run 1, Event 8278, LumiSection 83 at 19-Sep-2016 10:26:18.379 CDT
+Begin processing the 2691st record. Run 1, Event 8293, LumiSection 83 at 19-Sep-2016 10:26:18.794 CDT
+19-Sep-2016 10:26:19 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/42B33642-7255-E611-B5BE-0CC47A78A4BA.root
+19-Sep-2016 10:26:19 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/448AABF8-7755-E611-A9FA-0025905B8582.root
+19-Sep-2016 10:26:20 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/448AABF8-7755-E611-A9FA-0025905B8582.root
+Begin processing the 2701st record. Run 1, Event 104, LumiSection 2 at 19-Sep-2016 10:26:21.517 CDT
+Begin processing the 2711th record. Run 1, Event 111, LumiSection 2 at 19-Sep-2016 10:26:27.790 CDT
+Begin processing the 2721st record. Run 1, Event 114, LumiSection 2 at 19-Sep-2016 10:26:28.082 CDT
+Begin processing the 2731st record. Run 1, Event 130, LumiSection 2 at 19-Sep-2016 10:26:28.371 CDT
+Begin processing the 2741st record. Run 1, Event 144, LumiSection 2 at 19-Sep-2016 10:26:28.587 CDT
+Begin processing the 2751st record. Run 1, Event 151, LumiSection 2 at 19-Sep-2016 10:26:28.737 CDT
+Begin processing the 2761st record. Run 1, Event 164, LumiSection 2 at 19-Sep-2016 10:26:28.896 CDT
+Begin processing the 2771st record. Run 1, Event 171, LumiSection 2 at 19-Sep-2016 10:26:29.027 CDT
+Begin processing the 2781st record. Run 1, Event 175, LumiSection 2 at 19-Sep-2016 10:26:29.185 CDT
+Begin processing the 2791st record. Run 1, Event 192, LumiSection 2 at 19-Sep-2016 10:26:29.345 CDT
+Begin processing the 2801st record. Run 1, Event 5603, LumiSection 57 at 19-Sep-2016 10:26:29.507 CDT
+Begin processing the 2811th record. Run 1, Event 5611, LumiSection 57 at 19-Sep-2016 10:26:29.658 CDT
+Begin processing the 2821st record. Run 1, Event 5616, LumiSection 57 at 19-Sep-2016 10:26:29.827 CDT
+Begin processing the 2831st record. Run 1, Event 5627, LumiSection 57 at 19-Sep-2016 10:26:29.993 CDT
+Begin processing the 2841st record. Run 1, Event 5642, LumiSection 57 at 19-Sep-2016 10:26:30.140 CDT
+Begin processing the 2851st record. Run 1, Event 5651, LumiSection 57 at 19-Sep-2016 10:26:30.305 CDT
+Begin processing the 2861st record. Run 1, Event 5662, LumiSection 57 at 19-Sep-2016 10:26:30.469 CDT
+Begin processing the 2871st record. Run 1, Event 5672, LumiSection 57 at 19-Sep-2016 10:26:30.622 CDT
+Begin processing the 2881st record. Run 1, Event 5683, LumiSection 57 at 19-Sep-2016 10:26:30.817 CDT
+Begin processing the 2891st record. Run 1, Event 5693, LumiSection 57 at 19-Sep-2016 10:26:31.014 CDT
+Begin processing the 2901st record. Run 1, Event 8505, LumiSection 86 at 19-Sep-2016 10:26:31.190 CDT
+Begin processing the 2911th record. Run 1, Event 8506, LumiSection 86 at 19-Sep-2016 10:26:31.369 CDT
+Begin processing the 2921st record. Run 1, Event 8519, LumiSection 86 at 19-Sep-2016 10:26:31.552 CDT
+Begin processing the 2931st record. Run 1, Event 8527, LumiSection 86 at 19-Sep-2016 10:26:31.718 CDT
+Begin processing the 2941st record. Run 1, Event 8543, LumiSection 86 at 19-Sep-2016 10:26:33.436 CDT
+Begin processing the 2951st record. Run 1, Event 8548, LumiSection 86 at 19-Sep-2016 10:26:33.723 CDT
+Begin processing the 2961st record. Run 1, Event 8564, LumiSection 86 at 19-Sep-2016 10:26:34.029 CDT
+Begin processing the 2971st record. Run 1, Event 8572, LumiSection 86 at 19-Sep-2016 10:26:34.192 CDT
+Begin processing the 2981st record. Run 1, Event 8562, LumiSection 86 at 19-Sep-2016 10:26:34.348 CDT
+Begin processing the 2991st record. Run 1, Event 8595, LumiSection 86 at 19-Sep-2016 10:26:34.530 CDT
+19-Sep-2016 10:26:34 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/448AABF8-7755-E611-A9FA-0025905B8582.root
+19-Sep-2016 10:26:34 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/62091A13-7055-E611-ABDB-0CC47A4C8E1C.root
+19-Sep-2016 10:26:35 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/62091A13-7055-E611-ABDB-0CC47A4C8E1C.root
+Begin processing the 3001st record. Run 1, Event 5001, LumiSection 51 at 19-Sep-2016 10:26:36.822 CDT
+Begin processing the 3011th record. Run 1, Event 5012, LumiSection 51 at 19-Sep-2016 10:26:39.879 CDT
+Begin processing the 3021st record. Run 1, Event 5023, LumiSection 51 at 19-Sep-2016 10:26:40.173 CDT
+Begin processing the 3031st record. Run 1, Event 5032, LumiSection 51 at 19-Sep-2016 10:26:40.478 CDT
+Begin processing the 3041st record. Run 1, Event 5043, LumiSection 51 at 19-Sep-2016 10:26:40.653 CDT
+Begin processing the 3051st record. Run 1, Event 5052, LumiSection 51 at 19-Sep-2016 10:26:40.806 CDT
+Begin processing the 3061st record. Run 1, Event 5060, LumiSection 51 at 19-Sep-2016 10:26:40.957 CDT
+Begin processing the 3071st record. Run 1, Event 5073, LumiSection 51 at 19-Sep-2016 10:26:41.101 CDT
+Begin processing the 3081st record. Run 1, Event 5084, LumiSection 51 at 19-Sep-2016 10:26:41.253 CDT
+Begin processing the 3091st record. Run 1, Event 5094, LumiSection 51 at 19-Sep-2016 10:26:41.411 CDT
+Begin processing the 3101st record. Run 1, Event 6006, LumiSection 61 at 19-Sep-2016 10:26:41.554 CDT
+Begin processing the 3111th record. Run 1, Event 6005, LumiSection 61 at 19-Sep-2016 10:26:41.716 CDT
+Begin processing the 3121st record. Run 1, Event 6022, LumiSection 61 at 19-Sep-2016 10:26:41.879 CDT
+Begin processing the 3131st record. Run 1, Event 6033, LumiSection 61 at 19-Sep-2016 10:26:42.024 CDT
+Begin processing the 3141st record. Run 1, Event 6044, LumiSection 61 at 19-Sep-2016 10:26:42.173 CDT
+Begin processing the 3151st record. Run 1, Event 6040, LumiSection 61 at 19-Sep-2016 10:26:42.351 CDT
+Begin processing the 3161st record. Run 1, Event 6062, LumiSection 61 at 19-Sep-2016 10:26:42.497 CDT
+Begin processing the 3171st record. Run 1, Event 6074, LumiSection 61 at 19-Sep-2016 10:26:42.659 CDT
+Begin processing the 3181st record. Run 1, Event 6083, LumiSection 61 at 19-Sep-2016 10:26:42.814 CDT
+Begin processing the 3191st record. Run 1, Event 6091, LumiSection 61 at 19-Sep-2016 10:26:43.004 CDT
+19-Sep-2016 10:26:43 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/62091A13-7055-E611-ABDB-0CC47A4C8E1C.root
+19-Sep-2016 10:26:43 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/721C6AF2-7255-E611-A57E-0025905B85DC.root
+19-Sep-2016 10:26:44 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/721C6AF2-7255-E611-A57E-0025905B85DC.root
+Begin processing the 3201st record. Run 1, Event 1805, LumiSection 19 at 19-Sep-2016 10:26:46.083 CDT
+Begin processing the 3211th record. Run 1, Event 1812, LumiSection 19 at 19-Sep-2016 10:27:04.142 CDT
+Begin processing the 3221st record. Run 1, Event 1823, LumiSection 19 at 19-Sep-2016 10:27:04.319 CDT
+Begin processing the 3231st record. Run 1, Event 1827, LumiSection 19 at 19-Sep-2016 10:27:04.494 CDT
+Begin processing the 3241st record. Run 1, Event 1843, LumiSection 19 at 19-Sep-2016 10:27:04.771 CDT
+Begin processing the 3251st record. Run 1, Event 1855, LumiSection 19 at 19-Sep-2016 10:27:05.006 CDT
+Begin processing the 3261st record. Run 1, Event 1864, LumiSection 19 at 19-Sep-2016 10:27:05.158 CDT
+Begin processing the 3271st record. Run 1, Event 1873, LumiSection 19 at 19-Sep-2016 10:27:05.340 CDT
+Begin processing the 3281st record. Run 1, Event 1884, LumiSection 19 at 19-Sep-2016 10:27:05.494 CDT
+Begin processing the 3291st record. Run 1, Event 1895, LumiSection 19 at 19-Sep-2016 10:27:05.741 CDT
+Begin processing the 3301st record. Run 1, Event 4703, LumiSection 48 at 19-Sep-2016 10:27:06.023 CDT
+Begin processing the 3311th record. Run 1, Event 4714, LumiSection 48 at 19-Sep-2016 10:27:06.175 CDT
+Begin processing the 3321st record. Run 1, Event 4719, LumiSection 48 at 19-Sep-2016 10:27:06.329 CDT
+Begin processing the 3331st record. Run 1, Event 4730, LumiSection 48 at 19-Sep-2016 10:27:06.478 CDT
+Begin processing the 3341st record. Run 1, Event 4741, LumiSection 48 at 19-Sep-2016 10:27:06.640 CDT
+Begin processing the 3351st record. Run 1, Event 4751, LumiSection 48 at 19-Sep-2016 10:27:06.790 CDT
+Begin processing the 3361st record. Run 1, Event 4762, LumiSection 48 at 19-Sep-2016 10:27:06.950 CDT
+Begin processing the 3371st record. Run 1, Event 4765, LumiSection 48 at 19-Sep-2016 10:27:07.099 CDT
+Begin processing the 3381st record. Run 1, Event 4782, LumiSection 48 at 19-Sep-2016 10:27:07.244 CDT
+Begin processing the 3391st record. Run 1, Event 4783, LumiSection 48 at 19-Sep-2016 10:27:07.390 CDT
+Begin processing the 3401st record. Run 1, Event 4905, LumiSection 50 at 19-Sep-2016 10:27:07.547 CDT
+Begin processing the 3411th record. Run 1, Event 4909, LumiSection 50 at 19-Sep-2016 10:27:07.704 CDT
+Begin processing the 3421st record. Run 1, Event 4922, LumiSection 50 at 19-Sep-2016 10:27:07.903 CDT
+Begin processing the 3431st record. Run 1, Event 4932, LumiSection 50 at 19-Sep-2016 10:27:08.118 CDT
+Begin processing the 3441st record. Run 1, Event 4944, LumiSection 50 at 19-Sep-2016 10:27:08.298 CDT
+Begin processing the 3451st record. Run 1, Event 4952, LumiSection 50 at 19-Sep-2016 10:27:13.673 CDT
+Begin processing the 3461st record. Run 1, Event 4964, LumiSection 50 at 19-Sep-2016 10:27:13.944 CDT
+Begin processing the 3471st record. Run 1, Event 4970, LumiSection 50 at 19-Sep-2016 10:27:14.214 CDT
+Begin processing the 3481st record. Run 1, Event 4977, LumiSection 50 at 19-Sep-2016 10:27:14.476 CDT
+Begin processing the 3491st record. Run 1, Event 4991, LumiSection 50 at 19-Sep-2016 10:27:14.658 CDT
+19-Sep-2016 10:27:14 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/721C6AF2-7255-E611-A57E-0025905B85DC.root
+19-Sep-2016 10:27:14 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/80ED20DB-7155-E611-8A85-0CC47A78A45A.root
+19-Sep-2016 10:27:15 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/80ED20DB-7155-E611-8A85-0CC47A78A45A.root
+Begin processing the 3501st record. Run 1, Event 2002, LumiSection 21 at 19-Sep-2016 10:27:16.967 CDT
+Begin processing the 3511th record. Run 1, Event 2011, LumiSection 21 at 19-Sep-2016 10:27:22.702 CDT
+Begin processing the 3521st record. Run 1, Event 2023, LumiSection 21 at 19-Sep-2016 10:27:22.973 CDT
+Begin processing the 3531st record. Run 1, Event 2034, LumiSection 21 at 19-Sep-2016 10:27:23.142 CDT
+Begin processing the 3541st record. Run 1, Event 2039, LumiSection 21 at 19-Sep-2016 10:27:23.298 CDT
+Begin processing the 3551st record. Run 1, Event 2051, LumiSection 21 at 19-Sep-2016 10:27:23.459 CDT
+Begin processing the 3561st record. Run 1, Event 2062, LumiSection 21 at 19-Sep-2016 10:27:23.620 CDT
+Begin processing the 3571st record. Run 1, Event 2074, LumiSection 21 at 19-Sep-2016 10:27:23.773 CDT
+Begin processing the 3581st record. Run 1, Event 2082, LumiSection 21 at 19-Sep-2016 10:27:23.919 CDT
+Begin processing the 3591st record. Run 1, Event 2088, LumiSection 21 at 19-Sep-2016 10:27:24.072 CDT
+Begin processing the 3601st record. Run 1, Event 7702, LumiSection 78 at 19-Sep-2016 10:27:24.237 CDT
+Begin processing the 3611th record. Run 1, Event 7714, LumiSection 78 at 19-Sep-2016 10:27:24.393 CDT
+Begin processing the 3621st record. Run 1, Event 7721, LumiSection 78 at 19-Sep-2016 10:27:24.565 CDT
+Begin processing the 3631st record. Run 1, Event 7731, LumiSection 78 at 19-Sep-2016 10:27:24.732 CDT
+Begin processing the 3641st record. Run 1, Event 7742, LumiSection 78 at 19-Sep-2016 10:27:24.890 CDT
+Begin processing the 3651st record. Run 1, Event 7755, LumiSection 78 at 19-Sep-2016 10:27:25.063 CDT
+Begin processing the 3661st record. Run 1, Event 7763, LumiSection 78 at 19-Sep-2016 10:27:25.211 CDT
+Begin processing the 3671st record. Run 1, Event 7774, LumiSection 78 at 19-Sep-2016 10:27:25.358 CDT
+Begin processing the 3681st record. Run 1, Event 7773, LumiSection 78 at 19-Sep-2016 10:27:25.499 CDT
+Begin processing the 3691st record. Run 1, Event 7783, LumiSection 78 at 19-Sep-2016 10:27:25.656 CDT
+Begin processing the 3701st record. Run 1, Event 8103, LumiSection 82 at 19-Sep-2016 10:27:25.809 CDT
+Begin processing the 3711th record. Run 1, Event 8114, LumiSection 82 at 19-Sep-2016 10:27:25.967 CDT
+Begin processing the 3721st record. Run 1, Event 8122, LumiSection 82 at 19-Sep-2016 10:27:26.128 CDT
+Begin processing the 3731st record. Run 1, Event 8132, LumiSection 82 at 19-Sep-2016 10:27:26.290 CDT
+Begin processing the 3741st record. Run 1, Event 8134, LumiSection 82 at 19-Sep-2016 10:27:26.432 CDT
+Begin processing the 3751st record. Run 1, Event 8149, LumiSection 82 at 19-Sep-2016 10:27:28.023 CDT
+Begin processing the 3761st record. Run 1, Event 8160, LumiSection 82 at 19-Sep-2016 10:27:28.301 CDT
+Begin processing the 3771st record. Run 1, Event 8172, LumiSection 82 at 19-Sep-2016 10:27:28.559 CDT
+Begin processing the 3781st record. Run 1, Event 8182, LumiSection 82 at 19-Sep-2016 10:27:28.711 CDT
+Begin processing the 3791st record. Run 1, Event 8192, LumiSection 82 at 19-Sep-2016 10:27:28.865 CDT
+19-Sep-2016 10:27:29 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/80ED20DB-7155-E611-8A85-0CC47A78A45A.root
+19-Sep-2016 10:27:29 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/8E6829C5-6E55-E611-94DF-0CC47A4C8E1C.root
+19-Sep-2016 10:27:30 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/8E6829C5-6E55-E611-94DF-0CC47A4C8E1C.root
+Begin processing the 3801st record. Run 1, Event 602, LumiSection 7 at 19-Sep-2016 10:27:31.319 CDT
+Begin processing the 3811th record. Run 1, Event 607, LumiSection 7 at 19-Sep-2016 10:27:35.480 CDT
+Begin processing the 3821st record. Run 1, Event 622, LumiSection 7 at 19-Sep-2016 10:27:35.794 CDT
+Begin processing the 3831st record. Run 1, Event 633, LumiSection 7 at 19-Sep-2016 10:27:36.105 CDT
+Begin processing the 3841st record. Run 1, Event 637, LumiSection 7 at 19-Sep-2016 10:27:36.387 CDT
+Begin processing the 3851st record. Run 1, Event 649, LumiSection 7 at 19-Sep-2016 10:27:36.583 CDT
+Begin processing the 3861st record. Run 1, Event 664, LumiSection 7 at 19-Sep-2016 10:27:36.733 CDT
+Begin processing the 3871st record. Run 1, Event 672, LumiSection 7 at 19-Sep-2016 10:27:36.896 CDT
+Begin processing the 3881st record. Run 1, Event 681, LumiSection 7 at 19-Sep-2016 10:27:37.048 CDT
+Begin processing the 3891st record. Run 1, Event 683, LumiSection 7 at 19-Sep-2016 10:27:37.209 CDT
+Begin processing the 3901st record. Run 1, Event 803, LumiSection 9 at 19-Sep-2016 10:27:37.367 CDT
+Begin processing the 3911th record. Run 1, Event 811, LumiSection 9 at 19-Sep-2016 10:27:37.531 CDT
+Begin processing the 3921st record. Run 1, Event 821, LumiSection 9 at 19-Sep-2016 10:27:37.679 CDT
+Begin processing the 3931st record. Run 1, Event 830, LumiSection 9 at 19-Sep-2016 10:27:37.827 CDT
+Begin processing the 3941st record. Run 1, Event 843, LumiSection 9 at 19-Sep-2016 10:27:37.996 CDT
+Begin processing the 3951st record. Run 1, Event 850, LumiSection 9 at 19-Sep-2016 10:27:38.161 CDT
+Begin processing the 3961st record. Run 1, Event 859, LumiSection 9 at 19-Sep-2016 10:27:38.336 CDT
+Begin processing the 3971st record. Run 1, Event 872, LumiSection 9 at 19-Sep-2016 10:27:38.485 CDT
+Begin processing the 3981st record. Run 1, Event 885, LumiSection 9 at 19-Sep-2016 10:27:38.739 CDT
+Begin processing the 3991st record. Run 1, Event 894, LumiSection 9 at 19-Sep-2016 10:27:39.004 CDT
+19-Sep-2016 10:27:39 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/8E6829C5-6E55-E611-94DF-0CC47A4C8E1C.root
+19-Sep-2016 10:27:39 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/94FB3728-7355-E611-B1F6-0CC47A78A3D8.root
+19-Sep-2016 10:27:40 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/94FB3728-7355-E611-B1F6-0CC47A78A3D8.root
+Begin processing the 4001st record. Run 1, Event 303, LumiSection 4 at 19-Sep-2016 10:27:41.393 CDT
+Begin processing the 4011th record. Run 1, Event 313, LumiSection 4 at 19-Sep-2016 10:27:44.875 CDT
+Begin processing the 4021st record. Run 1, Event 322, LumiSection 4 at 19-Sep-2016 10:27:45.157 CDT
+Begin processing the 4031st record. Run 1, Event 333, LumiSection 4 at 19-Sep-2016 10:27:45.443 CDT
+Begin processing the 4041st record. Run 1, Event 335, LumiSection 4 at 19-Sep-2016 10:27:45.626 CDT
+Begin processing the 4051st record. Run 1, Event 353, LumiSection 4 at 19-Sep-2016 10:27:45.777 CDT
+Begin processing the 4061st record. Run 1, Event 364, LumiSection 4 at 19-Sep-2016 10:27:45.961 CDT
+Begin processing the 4071st record. Run 1, Event 372, LumiSection 4 at 19-Sep-2016 10:27:46.191 CDT
+Begin processing the 4081st record. Run 1, Event 379, LumiSection 4 at 19-Sep-2016 10:27:46.474 CDT
+Begin processing the 4091st record. Run 1, Event 394, LumiSection 4 at 19-Sep-2016 10:27:46.731 CDT
+Begin processing the 4101st record. Run 1, Event 502, LumiSection 6 at 19-Sep-2016 10:27:46.988 CDT
+Begin processing the 4111th record. Run 1, Event 514, LumiSection 6 at 19-Sep-2016 10:27:47.163 CDT
+Begin processing the 4121st record. Run 1, Event 520, LumiSection 6 at 19-Sep-2016 10:27:47.316 CDT
+Begin processing the 4131st record. Run 1, Event 533, LumiSection 6 at 19-Sep-2016 10:27:47.511 CDT
+Begin processing the 4141st record. Run 1, Event 543, LumiSection 6 at 19-Sep-2016 10:27:47.663 CDT
+Begin processing the 4151st record. Run 1, Event 551, LumiSection 6 at 19-Sep-2016 10:27:47.814 CDT
+Begin processing the 4161st record. Run 1, Event 560, LumiSection 6 at 19-Sep-2016 10:27:47.957 CDT
+Begin processing the 4171st record. Run 1, Event 574, LumiSection 6 at 19-Sep-2016 10:27:48.106 CDT
+Begin processing the 4181st record. Run 1, Event 582, LumiSection 6 at 19-Sep-2016 10:27:48.259 CDT
+Begin processing the 4191st record. Run 1, Event 588, LumiSection 6 at 19-Sep-2016 10:27:48.423 CDT
+Begin processing the 4201st record. Run 1, Event 1204, LumiSection 13 at 19-Sep-2016 10:27:48.586 CDT
+Begin processing the 4211th record. Run 1, Event 1206, LumiSection 13 at 19-Sep-2016 10:27:48.742 CDT
+Begin processing the 4221st record. Run 1, Event 1224, LumiSection 13 at 19-Sep-2016 10:27:48.909 CDT
+Begin processing the 4231st record. Run 1, Event 1235, LumiSection 13 at 19-Sep-2016 10:27:49.072 CDT
+Begin processing the 4241st record. Run 1, Event 1240, LumiSection 13 at 19-Sep-2016 10:27:49.224 CDT
+Begin processing the 4251st record. Run 1, Event 1253, LumiSection 13 at 19-Sep-2016 10:27:50.547 CDT
+Begin processing the 4261st record. Run 1, Event 1248, LumiSection 13 at 19-Sep-2016 10:27:50.812 CDT
+Begin processing the 4271st record. Run 1, Event 1274, LumiSection 13 at 19-Sep-2016 10:27:51.064 CDT
+Begin processing the 4281st record. Run 1, Event 1284, LumiSection 13 at 19-Sep-2016 10:27:51.234 CDT
+Begin processing the 4291st record. Run 1, Event 1291, LumiSection 13 at 19-Sep-2016 10:27:51.413 CDT
+19-Sep-2016 10:27:51 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/94FB3728-7355-E611-B1F6-0CC47A78A3D8.root
+19-Sep-2016 10:27:51 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/9665CC4A-7855-E611-97C8-0CC47A78A3D8.root
+19-Sep-2016 10:27:52 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/9665CC4A-7855-E611-97C8-0CC47A78A3D8.root
+Begin processing the 4301st record. Run 1, Event 6601, LumiSection 67 at 19-Sep-2016 10:27:53.776 CDT
+Begin processing the 4311th record. Run 1, Event 6606, LumiSection 67 at 19-Sep-2016 10:27:56.197 CDT
+Begin processing the 4321st record. Run 1, Event 6624, LumiSection 67 at 19-Sep-2016 10:27:56.626 CDT
+Begin processing the 4331st record. Run 1, Event 6633, LumiSection 67 at 19-Sep-2016 10:27:57.060 CDT
+Begin processing the 4341st record. Run 1, Event 6644, LumiSection 67 at 19-Sep-2016 10:27:57.466 CDT
+Begin processing the 4351st record. Run 1, Event 6653, LumiSection 67 at 19-Sep-2016 10:27:57.896 CDT
+Begin processing the 4361st record. Run 1, Event 6662, LumiSection 67 at 19-Sep-2016 10:27:58.397 CDT
+Begin processing the 4371st record. Run 1, Event 6675, LumiSection 67 at 19-Sep-2016 10:27:58.862 CDT
+Begin processing the 4381st record. Run 1, Event 6677, LumiSection 67 at 19-Sep-2016 10:27:59.281 CDT
+Begin processing the 4391st record. Run 1, Event 6693, LumiSection 67 at 19-Sep-2016 10:27:59.707 CDT
+19-Sep-2016 10:28:00 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/9665CC4A-7855-E611-97C8-0CC47A78A3D8.root
+19-Sep-2016 10:28:00 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/98933D34-7055-E611-88FC-0CC47A78A4BA.root
+19-Sep-2016 10:28:01 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/98933D34-7055-E611-88FC-0CC47A78A4BA.root
+Begin processing the 4401st record. Run 1, Event 704, LumiSection 8 at 19-Sep-2016 10:28:02.358 CDT
+Begin processing the 4411th record. Run 1, Event 711, LumiSection 8 at 19-Sep-2016 10:28:07.837 CDT
+Begin processing the 4421st record. Run 1, Event 724, LumiSection 8 at 19-Sep-2016 10:28:08.285 CDT
+Begin processing the 4431st record. Run 1, Event 732, LumiSection 8 at 19-Sep-2016 10:28:08.749 CDT
+Begin processing the 4441st record. Run 1, Event 742, LumiSection 8 at 19-Sep-2016 10:28:09.123 CDT
+Begin processing the 4451st record. Run 1, Event 753, LumiSection 8 at 19-Sep-2016 10:28:09.617 CDT
+Begin processing the 4461st record. Run 1, Event 764, LumiSection 8 at 19-Sep-2016 10:28:09.975 CDT
+Begin processing the 4471st record. Run 1, Event 774, LumiSection 8 at 19-Sep-2016 10:28:10.419 CDT
+Begin processing the 4481st record. Run 1, Event 784, LumiSection 8 at 19-Sep-2016 10:28:10.858 CDT
+Begin processing the 4491st record. Run 1, Event 792, LumiSection 8 at 19-Sep-2016 10:28:11.288 CDT
+Begin processing the 4501st record. Run 1, Event 1102, LumiSection 12 at 19-Sep-2016 10:28:11.739 CDT
+Begin processing the 4511th record. Run 1, Event 1115, LumiSection 12 at 19-Sep-2016 10:28:12.082 CDT
+Begin processing the 4521st record. Run 1, Event 1124, LumiSection 12 at 19-Sep-2016 10:28:12.435 CDT
+Begin processing the 4531st record. Run 1, Event 1133, LumiSection 12 at 19-Sep-2016 10:28:12.802 CDT
+Begin processing the 4541st record. Run 1, Event 1137, LumiSection 12 at 19-Sep-2016 10:28:13.204 CDT
+Begin processing the 4551st record. Run 1, Event 1148, LumiSection 12 at 19-Sep-2016 10:28:13.578 CDT
+Begin processing the 4561st record. Run 1, Event 1164, LumiSection 12 at 19-Sep-2016 10:28:13.992 CDT
+Begin processing the 4571st record. Run 1, Event 1174, LumiSection 12 at 19-Sep-2016 10:28:14.368 CDT
+Begin processing the 4581st record. Run 1, Event 1176, LumiSection 12 at 19-Sep-2016 10:28:14.763 CDT
+Begin processing the 4591st record. Run 1, Event 1191, LumiSection 12 at 19-Sep-2016 10:28:15.147 CDT
+Begin processing the 4601st record. Run 1, Event 4804, LumiSection 49 at 19-Sep-2016 10:28:15.548 CDT
+Begin processing the 4611th record. Run 1, Event 4808, LumiSection 49 at 19-Sep-2016 10:28:15.936 CDT
+Begin processing the 4621st record. Run 1, Event 4816, LumiSection 49 at 19-Sep-2016 10:28:16.255 CDT
+Begin processing the 4631st record. Run 1, Event 4835, LumiSection 49 at 19-Sep-2016 10:28:16.652 CDT
+Begin processing the 4641st record. Run 1, Event 4839, LumiSection 49 at 19-Sep-2016 10:28:17.049 CDT
+Begin processing the 4651st record. Run 1, Event 4849, LumiSection 49 at 19-Sep-2016 10:28:18.793 CDT
+Begin processing the 4661st record. Run 1, Event 4860, LumiSection 49 at 19-Sep-2016 10:28:19.168 CDT
+Begin processing the 4671st record. Run 1, Event 4871, LumiSection 49 at 19-Sep-2016 10:28:19.550 CDT
+Begin processing the 4681st record. Run 1, Event 4875, LumiSection 49 at 19-Sep-2016 10:28:19.877 CDT
+Begin processing the 4691st record. Run 1, Event 4889, LumiSection 49 at 19-Sep-2016 10:28:20.257 CDT
+19-Sep-2016 10:28:20 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/98933D34-7055-E611-88FC-0CC47A78A4BA.root
+19-Sep-2016 10:28:20 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/9A7C8583-7555-E611-A7EE-0CC47A4D762E.root
+19-Sep-2016 10:28:21 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/9A7C8583-7555-E611-A7EE-0CC47A4D762E.root
+Begin processing the 4701st record. Run 1, Event 3205, LumiSection 33 at 19-Sep-2016 10:28:22.878 CDT
+Begin processing the 4711th record. Run 1, Event 3214, LumiSection 33 at 19-Sep-2016 10:28:29.011 CDT
+Begin processing the 4721st record. Run 1, Event 3224, LumiSection 33 at 19-Sep-2016 10:28:29.314 CDT
+Begin processing the 4731st record. Run 1, Event 3231, LumiSection 33 at 19-Sep-2016 10:28:29.571 CDT
+Begin processing the 4741st record. Run 1, Event 3244, LumiSection 33 at 19-Sep-2016 10:28:29.725 CDT
+Begin processing the 4751st record. Run 1, Event 3253, LumiSection 33 at 19-Sep-2016 10:28:29.869 CDT
+Begin processing the 4761st record. Run 1, Event 3263, LumiSection 33 at 19-Sep-2016 10:28:30.023 CDT
+Begin processing the 4771st record. Run 1, Event 3272, LumiSection 33 at 19-Sep-2016 10:28:30.200 CDT
+Begin processing the 4781st record. Run 1, Event 3283, LumiSection 33 at 19-Sep-2016 10:28:30.342 CDT
+Begin processing the 4791st record. Run 1, Event 3294, LumiSection 33 at 19-Sep-2016 10:28:30.510 CDT
+Begin processing the 4801st record. Run 1, Event 7803, LumiSection 79 at 19-Sep-2016 10:28:30.822 CDT
+Begin processing the 4811th record. Run 1, Event 7811, LumiSection 79 at 19-Sep-2016 10:28:31.038 CDT
+Begin processing the 4821st record. Run 1, Event 7817, LumiSection 79 at 19-Sep-2016 10:28:31.199 CDT
+Begin processing the 4831st record. Run 1, Event 7834, LumiSection 79 at 19-Sep-2016 10:28:31.378 CDT
+Begin processing the 4841st record. Run 1, Event 7844, LumiSection 79 at 19-Sep-2016 10:28:31.542 CDT
+Begin processing the 4851st record. Run 1, Event 7851, LumiSection 79 at 19-Sep-2016 10:28:31.788 CDT
+Begin processing the 4861st record. Run 1, Event 7858, LumiSection 79 at 19-Sep-2016 10:28:32.047 CDT
+Begin processing the 4871st record. Run 1, Event 7870, LumiSection 79 at 19-Sep-2016 10:28:32.215 CDT
+Begin processing the 4881st record. Run 1, Event 7881, LumiSection 79 at 19-Sep-2016 10:28:32.360 CDT
+Begin processing the 4891st record. Run 1, Event 7887, LumiSection 79 at 19-Sep-2016 10:28:32.507 CDT
+19-Sep-2016 10:28:32 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/9A7C8583-7555-E611-A7EE-0CC47A4D762E.root
+19-Sep-2016 10:28:32 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/A4DC847E-7555-E611-BA23-0025905B85DC.root
+19-Sep-2016 10:28:33 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/A4DC847E-7555-E611-BA23-0025905B85DC.root
+Begin processing the 4901st record. Run 1, Event 201, LumiSection 3 at 19-Sep-2016 10:28:34.991 CDT
+Begin processing the 4911th record. Run 1, Event 213, LumiSection 3 at 19-Sep-2016 10:28:38.519 CDT
+Begin processing the 4921st record. Run 1, Event 223, LumiSection 3 at 19-Sep-2016 10:28:38.843 CDT
+Begin processing the 4931st record. Run 1, Event 229, LumiSection 3 at 19-Sep-2016 10:28:39.162 CDT
+Begin processing the 4941st record. Run 1, Event 233, LumiSection 3 at 19-Sep-2016 10:28:39.392 CDT
+Begin processing the 4951st record. Run 1, Event 253, LumiSection 3 at 19-Sep-2016 10:28:39.674 CDT
+Begin processing the 4961st record. Run 1, Event 263, LumiSection 3 at 19-Sep-2016 10:28:39.943 CDT
+Begin processing the 4971st record. Run 1, Event 256, LumiSection 3 at 19-Sep-2016 10:28:40.112 CDT
+Begin processing the 4981st record. Run 1, Event 281, LumiSection 3 at 19-Sep-2016 10:28:40.255 CDT
+Begin processing the 4991st record. Run 1, Event 290, LumiSection 3 at 19-Sep-2016 10:28:40.436 CDT
+Begin processing the 5001st record. Run 1, Event 2101, LumiSection 22 at 19-Sep-2016 10:28:40.604 CDT
+Begin processing the 5011th record. Run 1, Event 2111, LumiSection 22 at 19-Sep-2016 10:28:40.769 CDT
+Begin processing the 5021st record. Run 1, Event 2104, LumiSection 22 at 19-Sep-2016 10:28:40.939 CDT
+Begin processing the 5031st record. Run 1, Event 2135, LumiSection 22 at 19-Sep-2016 10:28:41.112 CDT
+Begin processing the 5041st record. Run 1, Event 2138, LumiSection 22 at 19-Sep-2016 10:28:41.259 CDT
+Begin processing the 5051st record. Run 1, Event 2149, LumiSection 22 at 19-Sep-2016 10:28:41.439 CDT
+Begin processing the 5061st record. Run 1, Event 2163, LumiSection 22 at 19-Sep-2016 10:28:41.605 CDT
+Begin processing the 5071st record. Run 1, Event 2172, LumiSection 22 at 19-Sep-2016 10:28:41.775 CDT
+Begin processing the 5081st record. Run 1, Event 2182, LumiSection 22 at 19-Sep-2016 10:28:41.948 CDT
+Begin processing the 5091st record. Run 1, Event 2194, LumiSection 22 at 19-Sep-2016 10:28:42.097 CDT
+Begin processing the 5101st record. Run 1, Event 3106, LumiSection 32 at 19-Sep-2016 10:28:42.239 CDT
+Begin processing the 5111th record. Run 1, Event 3111, LumiSection 32 at 19-Sep-2016 10:28:42.392 CDT
+Begin processing the 5121st record. Run 1, Event 3122, LumiSection 32 at 19-Sep-2016 10:28:42.559 CDT
+Begin processing the 5131st record. Run 1, Event 3132, LumiSection 32 at 19-Sep-2016 10:28:42.708 CDT
+Begin processing the 5141st record. Run 1, Event 3125, LumiSection 32 at 19-Sep-2016 10:28:42.870 CDT
+Begin processing the 5151st record. Run 1, Event 3155, LumiSection 32 at 19-Sep-2016 10:28:43.893 CDT
+Begin processing the 5161st record. Run 1, Event 3161, LumiSection 32 at 19-Sep-2016 10:28:44.221 CDT
+Begin processing the 5171st record. Run 1, Event 3173, LumiSection 32 at 19-Sep-2016 10:28:44.512 CDT
+Begin processing the 5181st record. Run 1, Event 3185, LumiSection 32 at 19-Sep-2016 10:28:44.666 CDT
+Begin processing the 5191st record. Run 1, Event 3193, LumiSection 32 at 19-Sep-2016 10:28:44.834 CDT
+19-Sep-2016 10:28:45 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/A4DC847E-7555-E611-BA23-0025905B85DC.root
+19-Sep-2016 10:28:45 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/A66440F7-7055-E611-B4B7-0025905A48C0.root
+19-Sep-2016 10:28:46 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/A66440F7-7055-E611-B4B7-0025905A48C0.root
+Begin processing the 5201st record. Run 1, Event 2404, LumiSection 25 at 19-Sep-2016 10:28:47.193 CDT
+Begin processing the 5211th record. Run 1, Event 2412, LumiSection 25 at 19-Sep-2016 10:28:51.261 CDT
+Begin processing the 5221st record. Run 1, Event 2423, LumiSection 25 at 19-Sep-2016 10:28:51.626 CDT
+Begin processing the 5231st record. Run 1, Event 2429, LumiSection 25 at 19-Sep-2016 10:28:52.083 CDT
+Begin processing the 5241st record. Run 1, Event 2445, LumiSection 25 at 19-Sep-2016 10:28:52.503 CDT
+Begin processing the 5251st record. Run 1, Event 2452, LumiSection 25 at 19-Sep-2016 10:28:52.865 CDT
+Begin processing the 5261st record. Run 1, Event 2462, LumiSection 25 at 19-Sep-2016 10:28:53.353 CDT
+Begin processing the 5271st record. Run 1, Event 2472, LumiSection 25 at 19-Sep-2016 10:28:53.798 CDT
+Begin processing the 5281st record. Run 1, Event 2479, LumiSection 25 at 19-Sep-2016 10:28:54.131 CDT
+Begin processing the 5291st record. Run 1, Event 2494, LumiSection 25 at 19-Sep-2016 10:28:54.471 CDT
+Begin processing the 5301st record. Run 1, Event 5705, LumiSection 58 at 19-Sep-2016 10:28:54.868 CDT
+Begin processing the 5311th record. Run 1, Event 5711, LumiSection 58 at 19-Sep-2016 10:28:55.263 CDT
+Begin processing the 5321st record. Run 1, Event 5723, LumiSection 58 at 19-Sep-2016 10:28:55.609 CDT
+Begin processing the 5331st record. Run 1, Event 5732, LumiSection 58 at 19-Sep-2016 10:28:56.095 CDT
+Begin processing the 5341st record. Run 1, Event 5742, LumiSection 58 at 19-Sep-2016 10:28:56.485 CDT
+Begin processing the 5351st record. Run 1, Event 5752, LumiSection 58 at 19-Sep-2016 10:28:56.860 CDT
+Begin processing the 5361st record. Run 1, Event 5760, LumiSection 58 at 19-Sep-2016 10:28:57.263 CDT
+Begin processing the 5371st record. Run 1, Event 5774, LumiSection 58 at 19-Sep-2016 10:28:57.767 CDT
+Begin processing the 5381st record. Run 1, Event 5783, LumiSection 58 at 19-Sep-2016 10:28:58.118 CDT
+Begin processing the 5391st record. Run 1, Event 5791, LumiSection 58 at 19-Sep-2016 10:28:58.571 CDT
+Begin processing the 5401st record. Run 1, Event 5803, LumiSection 59 at 19-Sep-2016 10:28:59.008 CDT
+Begin processing the 5411th record. Run 1, Event 5814, LumiSection 59 at 19-Sep-2016 10:28:59.377 CDT
+Begin processing the 5421st record. Run 1, Event 5817, LumiSection 59 at 19-Sep-2016 10:28:59.782 CDT
+Begin processing the 5431st record. Run 1, Event 5832, LumiSection 59 at 19-Sep-2016 10:29:00.204 CDT
+Begin processing the 5441st record. Run 1, Event 5840, LumiSection 59 at 19-Sep-2016 10:29:00.631 CDT
+Begin processing the 5451st record. Run 1, Event 5852, LumiSection 59 at 19-Sep-2016 10:29:01.955 CDT
+Begin processing the 5461st record. Run 1, Event 5860, LumiSection 59 at 19-Sep-2016 10:29:02.349 CDT
+Begin processing the 5471st record. Run 1, Event 5873, LumiSection 59 at 19-Sep-2016 10:29:02.723 CDT
+Begin processing the 5481st record. Run 1, Event 5881, LumiSection 59 at 19-Sep-2016 10:29:03.083 CDT
+Begin processing the 5491st record. Run 1, Event 5893, LumiSection 59 at 19-Sep-2016 10:29:03.405 CDT
+19-Sep-2016 10:29:03 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/A66440F7-7055-E611-B4B7-0025905A48C0.root
+19-Sep-2016 10:29:03 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/AE496D14-7155-E611-8208-0025905B8592.root
+19-Sep-2016 10:29:04 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/AE496D14-7155-E611-8208-0025905B8592.root
+Begin processing the 5501st record. Run 1, Event 2506, LumiSection 26 at 19-Sep-2016 10:29:05.827 CDT
+Begin processing the 5511th record. Run 1, Event 2510, LumiSection 26 at 19-Sep-2016 10:29:09.159 CDT
+Begin processing the 5521st record. Run 1, Event 2523, LumiSection 26 at 19-Sep-2016 10:29:09.601 CDT
+Begin processing the 5531st record. Run 1, Event 2530, LumiSection 26 at 19-Sep-2016 10:29:10.049 CDT
+Begin processing the 5541st record. Run 1, Event 2539, LumiSection 26 at 19-Sep-2016 10:29:10.469 CDT
+Begin processing the 5551st record. Run 1, Event 2554, LumiSection 26 at 19-Sep-2016 10:29:10.939 CDT
+Begin processing the 5561st record. Run 1, Event 2561, LumiSection 26 at 19-Sep-2016 10:29:11.322 CDT
+Begin processing the 5571st record. Run 1, Event 2571, LumiSection 26 at 19-Sep-2016 10:29:11.816 CDT
+Begin processing the 5581st record. Run 1, Event 2583, LumiSection 26 at 19-Sep-2016 10:29:12.206 CDT
+Begin processing the 5591st record. Run 1, Event 2595, LumiSection 26 at 19-Sep-2016 10:29:12.599 CDT
+Begin processing the 5601st record. Run 1, Event 4107, LumiSection 42 at 19-Sep-2016 10:29:13.041 CDT
+Begin processing the 5611th record. Run 1, Event 4113, LumiSection 42 at 19-Sep-2016 10:29:13.473 CDT
+Begin processing the 5621st record. Run 1, Event 4121, LumiSection 42 at 19-Sep-2016 10:29:13.876 CDT
+Begin processing the 5631st record. Run 1, Event 4133, LumiSection 42 at 19-Sep-2016 10:29:14.302 CDT
+Begin processing the 5641st record. Run 1, Event 4141, LumiSection 42 at 19-Sep-2016 10:29:14.691 CDT
+Begin processing the 5651st record. Run 1, Event 4152, LumiSection 42 at 19-Sep-2016 10:29:15.112 CDT
+Begin processing the 5661st record. Run 1, Event 4156, LumiSection 42 at 19-Sep-2016 10:29:15.512 CDT
+Begin processing the 5671st record. Run 1, Event 4167, LumiSection 42 at 19-Sep-2016 10:29:15.944 CDT
+Begin processing the 5681st record. Run 1, Event 4184, LumiSection 42 at 19-Sep-2016 10:29:16.394 CDT
+Begin processing the 5691st record. Run 1, Event 4188, LumiSection 42 at 19-Sep-2016 10:29:16.773 CDT
+Begin processing the 5701st record. Run 1, Event 6806, LumiSection 69 at 19-Sep-2016 10:29:17.169 CDT
+Begin processing the 5711th record. Run 1, Event 6811, LumiSection 69 at 19-Sep-2016 10:29:17.538 CDT
+Begin processing the 5721st record. Run 1, Event 6822, LumiSection 69 at 19-Sep-2016 10:29:17.941 CDT
+Begin processing the 5731st record. Run 1, Event 6829, LumiSection 69 at 19-Sep-2016 10:29:18.345 CDT
+Begin processing the 5741st record. Run 1, Event 6843, LumiSection 69 at 19-Sep-2016 10:29:18.719 CDT
+Begin processing the 5751st record. Run 1, Event 6854, LumiSection 69 at 19-Sep-2016 10:29:19.750 CDT
+Begin processing the 5761st record. Run 1, Event 6863, LumiSection 69 at 19-Sep-2016 10:29:20.133 CDT
+Begin processing the 5771st record. Run 1, Event 6865, LumiSection 69 at 19-Sep-2016 10:29:20.517 CDT
+Begin processing the 5781st record. Run 1, Event 6883, LumiSection 69 at 19-Sep-2016 10:29:20.925 CDT
+Begin processing the 5791st record. Run 1, Event 6894, LumiSection 69 at 19-Sep-2016 10:29:21.305 CDT
+19-Sep-2016 10:29:21 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/AE496D14-7155-E611-8208-0025905B8592.root
+19-Sep-2016 10:29:21 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/B0F01539-7355-E611-BA04-0CC47A7452D8.root
+19-Sep-2016 10:29:22 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/B0F01539-7355-E611-BA04-0CC47A7452D8.root
+Begin processing the 5801st record. Run 1, Event 7305, LumiSection 74 at 19-Sep-2016 10:29:23.916 CDT
+Begin processing the 5811th record. Run 1, Event 7314, LumiSection 74 at 19-Sep-2016 10:29:27.311 CDT
+Begin processing the 5821st record. Run 1, Event 7320, LumiSection 74 at 19-Sep-2016 10:29:27.750 CDT
+Begin processing the 5831st record. Run 1, Event 7335, LumiSection 74 at 19-Sep-2016 10:29:28.195 CDT
+Begin processing the 5841st record. Run 1, Event 7343, LumiSection 74 at 19-Sep-2016 10:29:28.635 CDT
+Begin processing the 5851st record. Run 1, Event 7353, LumiSection 74 at 19-Sep-2016 10:29:29.061 CDT
+Begin processing the 5861st record. Run 1, Event 7354, LumiSection 74 at 19-Sep-2016 10:29:29.514 CDT
+Begin processing the 5871st record. Run 1, Event 7373, LumiSection 74 at 19-Sep-2016 10:29:30.028 CDT
+Begin processing the 5881st record. Run 1, Event 7375, LumiSection 74 at 19-Sep-2016 10:29:30.454 CDT
+Begin processing the 5891st record. Run 1, Event 7393, LumiSection 74 at 19-Sep-2016 10:29:30.887 CDT
+Begin processing the 5901st record. Run 1, Event 7501, LumiSection 76 at 19-Sep-2016 10:29:31.260 CDT
+Begin processing the 5911th record. Run 1, Event 7513, LumiSection 76 at 19-Sep-2016 10:29:31.608 CDT
+Begin processing the 5921st record. Run 1, Event 7519, LumiSection 76 at 19-Sep-2016 10:29:31.972 CDT
+Begin processing the 5931st record. Run 1, Event 7535, LumiSection 76 at 19-Sep-2016 10:29:32.385 CDT
+Begin processing the 5941st record. Run 1, Event 7544, LumiSection 76 at 19-Sep-2016 10:29:32.754 CDT
+Begin processing the 5951st record. Run 1, Event 7548, LumiSection 76 at 19-Sep-2016 10:29:33.238 CDT
+Begin processing the 5961st record. Run 1, Event 7562, LumiSection 76 at 19-Sep-2016 10:29:33.660 CDT
+Begin processing the 5971st record. Run 1, Event 7553, LumiSection 76 at 19-Sep-2016 10:29:34.051 CDT
+Begin processing the 5981st record. Run 1, Event 7578, LumiSection 76 at 19-Sep-2016 10:29:34.471 CDT
+Begin processing the 5991st record. Run 1, Event 7590, LumiSection 76 at 19-Sep-2016 10:29:34.882 CDT
+Begin processing the 6001st record. Run 1, Event 8302, LumiSection 84 at 19-Sep-2016 10:29:35.246 CDT
+Begin processing the 6011th record. Run 1, Event 8311, LumiSection 84 at 19-Sep-2016 10:29:35.628 CDT
+Begin processing the 6021st record. Run 1, Event 8320, LumiSection 84 at 19-Sep-2016 10:29:36.022 CDT
+Begin processing the 6031st record. Run 1, Event 8334, LumiSection 84 at 19-Sep-2016 10:29:36.391 CDT
+Begin processing the 6041st record. Run 1, Event 8342, LumiSection 84 at 19-Sep-2016 10:29:36.803 CDT
+Begin processing the 6051st record. Run 1, Event 8351, LumiSection 84 at 19-Sep-2016 10:29:38.219 CDT
+Begin processing the 6061st record. Run 1, Event 8362, LumiSection 84 at 19-Sep-2016 10:29:38.567 CDT
+Begin processing the 6071st record. Run 1, Event 8372, LumiSection 84 at 19-Sep-2016 10:29:38.920 CDT
+Begin processing the 6081st record. Run 1, Event 8376, LumiSection 84 at 19-Sep-2016 10:29:39.303 CDT
+Begin processing the 6091st record. Run 1, Event 8392, LumiSection 84 at 19-Sep-2016 10:29:39.829 CDT
+19-Sep-2016 10:29:40 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/B0F01539-7355-E611-BA04-0CC47A7452D8.root
+19-Sep-2016 10:29:40 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/B4D45F16-7355-E611-913D-0CC47A4C8E64.root
+19-Sep-2016 10:29:41 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/B4D45F16-7355-E611-913D-0CC47A4C8E64.root
+Begin processing the 6101st record. Run 1, Event 7004, LumiSection 71 at 19-Sep-2016 10:29:42.517 CDT
+Begin processing the 6111th record. Run 1, Event 7016, LumiSection 71 at 19-Sep-2016 10:29:45.460 CDT
+Begin processing the 6121st record. Run 1, Event 7025, LumiSection 71 at 19-Sep-2016 10:29:45.738 CDT
+Begin processing the 6131st record. Run 1, Event 7030, LumiSection 71 at 19-Sep-2016 10:29:46.021 CDT
+Begin processing the 6141st record. Run 1, Event 7044, LumiSection 71 at 19-Sep-2016 10:29:46.199 CDT
+Begin processing the 6151st record. Run 1, Event 7052, LumiSection 71 at 19-Sep-2016 10:29:46.349 CDT
+Begin processing the 6161st record. Run 1, Event 7059, LumiSection 71 at 19-Sep-2016 10:29:46.492 CDT
+Begin processing the 6171st record. Run 1, Event 7074, LumiSection 71 at 19-Sep-2016 10:29:46.737 CDT
+Begin processing the 6181st record. Run 1, Event 7081, LumiSection 71 at 19-Sep-2016 10:29:47.008 CDT
+Begin processing the 6191st record. Run 1, Event 7095, LumiSection 71 at 19-Sep-2016 10:29:47.171 CDT
+Begin processing the 6201st record. Run 1, Event 7202, LumiSection 73 at 19-Sep-2016 10:29:47.325 CDT
+Begin processing the 6211th record. Run 1, Event 7214, LumiSection 73 at 19-Sep-2016 10:29:47.488 CDT
+Begin processing the 6221st record. Run 1, Event 7221, LumiSection 73 at 19-Sep-2016 10:29:47.649 CDT
+Begin processing the 6231st record. Run 1, Event 7230, LumiSection 73 at 19-Sep-2016 10:29:47.808 CDT
+Begin processing the 6241st record. Run 1, Event 7241, LumiSection 73 at 19-Sep-2016 10:29:47.966 CDT
+Begin processing the 6251st record. Run 1, Event 7252, LumiSection 73 at 19-Sep-2016 10:29:48.126 CDT
+Begin processing the 6261st record. Run 1, Event 7262, LumiSection 73 at 19-Sep-2016 10:29:48.291 CDT
+Begin processing the 6271st record. Run 1, Event 7263, LumiSection 73 at 19-Sep-2016 10:29:48.464 CDT
+Begin processing the 6281st record. Run 1, Event 7284, LumiSection 73 at 19-Sep-2016 10:29:48.686 CDT
+Begin processing the 6291st record. Run 1, Event 7293, LumiSection 73 at 19-Sep-2016 10:29:48.958 CDT
+Begin processing the 6301st record. Run 1, Event 7904, LumiSection 80 at 19-Sep-2016 10:29:49.139 CDT
+Begin processing the 6311th record. Run 1, Event 7909, LumiSection 80 at 19-Sep-2016 10:29:49.295 CDT
+Begin processing the 6321st record. Run 1, Event 7924, LumiSection 80 at 19-Sep-2016 10:29:49.451 CDT
+Begin processing the 6331st record. Run 1, Event 7933, LumiSection 80 at 19-Sep-2016 10:29:49.598 CDT
+Begin processing the 6341st record. Run 1, Event 7944, LumiSection 80 at 19-Sep-2016 10:29:49.752 CDT
+Begin processing the 6351st record. Run 1, Event 7953, LumiSection 80 at 19-Sep-2016 10:29:50.931 CDT
+Begin processing the 6361st record. Run 1, Event 7962, LumiSection 80 at 19-Sep-2016 10:29:51.275 CDT
+Begin processing the 6371st record. Run 1, Event 7975, LumiSection 80 at 19-Sep-2016 10:29:51.537 CDT
+Begin processing the 6381st record. Run 1, Event 7984, LumiSection 80 at 19-Sep-2016 10:29:51.816 CDT
+Begin processing the 6391st record. Run 1, Event 7994, LumiSection 80 at 19-Sep-2016 10:29:52.045 CDT
+19-Sep-2016 10:29:52 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/B4D45F16-7355-E611-913D-0CC47A4C8E64.root
+19-Sep-2016 10:29:52 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/C82B0AB0-6E55-E611-A5DE-0CC47A78A45A.root
+19-Sep-2016 10:29:53 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/C82B0AB0-6E55-E611-A5DE-0CC47A78A45A.root
+Begin processing the 6401st record. Run 1, Event 402, LumiSection 5 at 19-Sep-2016 10:29:54.265 CDT
+Begin processing the 6411th record. Run 1, Event 411, LumiSection 5 at 19-Sep-2016 10:29:59.967 CDT
+Begin processing the 6421st record. Run 1, Event 421, LumiSection 5 at 19-Sep-2016 10:30:00.406 CDT
+Begin processing the 6431st record. Run 1, Event 424, LumiSection 5 at 19-Sep-2016 10:30:00.803 CDT
+Begin processing the 6441st record. Run 1, Event 443, LumiSection 5 at 19-Sep-2016 10:30:01.238 CDT
+Begin processing the 6451st record. Run 1, Event 444, LumiSection 5 at 19-Sep-2016 10:30:01.612 CDT
+Begin processing the 6461st record. Run 1, Event 459, LumiSection 5 at 19-Sep-2016 10:30:01.997 CDT
+Begin processing the 6471st record. Run 1, Event 472, LumiSection 5 at 19-Sep-2016 10:30:02.413 CDT
+Begin processing the 6481st record. Run 1, Event 482, LumiSection 5 at 19-Sep-2016 10:30:02.852 CDT
+Begin processing the 6491st record. Run 1, Event 494, LumiSection 5 at 19-Sep-2016 10:30:03.210 CDT
+Begin processing the 6501st record. Run 1, Event 2303, LumiSection 24 at 19-Sep-2016 10:30:03.617 CDT
+Begin processing the 6511th record. Run 1, Event 2310, LumiSection 24 at 19-Sep-2016 10:30:03.999 CDT
+Begin processing the 6521st record. Run 1, Event 2318, LumiSection 24 at 19-Sep-2016 10:30:04.360 CDT
+Begin processing the 6531st record. Run 1, Event 2332, LumiSection 24 at 19-Sep-2016 10:30:04.714 CDT
+Begin processing the 6541st record. Run 1, Event 2343, LumiSection 24 at 19-Sep-2016 10:30:05.046 CDT
+Begin processing the 6551st record. Run 1, Event 2352, LumiSection 24 at 19-Sep-2016 10:30:05.407 CDT
+Begin processing the 6561st record. Run 1, Event 2360, LumiSection 24 at 19-Sep-2016 10:30:05.728 CDT
+Begin processing the 6571st record. Run 1, Event 2372, LumiSection 24 at 19-Sep-2016 10:30:06.067 CDT
+Begin processing the 6581st record. Run 1, Event 2382, LumiSection 24 at 19-Sep-2016 10:30:06.430 CDT
+Begin processing the 6591st record. Run 1, Event 2394, LumiSection 24 at 19-Sep-2016 10:30:06.743 CDT
+19-Sep-2016 10:30:07 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/C82B0AB0-6E55-E611-A5DE-0CC47A78A45A.root
+19-Sep-2016 10:30:07 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/CA0D2CF1-7255-E611-A727-0CC47A4C8E2A.root
+19-Sep-2016 10:30:08 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/CA0D2CF1-7255-E611-A727-0CC47A4C8E2A.root
+Begin processing the 6601st record. Run 1, Event 4302, LumiSection 44 at 19-Sep-2016 10:30:09.251 CDT
+Begin processing the 6611th record. Run 1, Event 4311, LumiSection 44 at 19-Sep-2016 10:30:12.388 CDT
+Begin processing the 6621st record. Run 1, Event 4316, LumiSection 44 at 19-Sep-2016 10:30:12.670 CDT
+Begin processing the 6631st record. Run 1, Event 4333, LumiSection 44 at 19-Sep-2016 10:30:12.935 CDT
+Begin processing the 6641st record. Run 1, Event 4335, LumiSection 44 at 19-Sep-2016 10:30:13.117 CDT
+Begin processing the 6651st record. Run 1, Event 4353, LumiSection 44 at 19-Sep-2016 10:30:13.296 CDT
+Begin processing the 6661st record. Run 1, Event 4359, LumiSection 44 at 19-Sep-2016 10:30:13.473 CDT
+Begin processing the 6671st record. Run 1, Event 4372, LumiSection 44 at 19-Sep-2016 10:30:13.745 CDT
+Begin processing the 6681st record. Run 1, Event 4383, LumiSection 44 at 19-Sep-2016 10:30:14.008 CDT
+Begin processing the 6691st record. Run 1, Event 4393, LumiSection 44 at 19-Sep-2016 10:30:14.165 CDT
+Begin processing the 6701st record. Run 1, Event 8803, LumiSection 89 at 19-Sep-2016 10:30:14.327 CDT
+Begin processing the 6711th record. Run 1, Event 8810, LumiSection 89 at 19-Sep-2016 10:30:14.478 CDT
+Begin processing the 6721st record. Run 1, Event 8814, LumiSection 89 at 19-Sep-2016 10:30:14.630 CDT
+Begin processing the 6731st record. Run 1, Event 8831, LumiSection 89 at 19-Sep-2016 10:30:14.801 CDT
+Begin processing the 6741st record. Run 1, Event 8842, LumiSection 89 at 19-Sep-2016 10:30:14.967 CDT
+Begin processing the 6751st record. Run 1, Event 8850, LumiSection 89 at 19-Sep-2016 10:30:15.136 CDT
+Begin processing the 6761st record. Run 1, Event 8864, LumiSection 89 at 19-Sep-2016 10:30:15.284 CDT
+Begin processing the 6771st record. Run 1, Event 8872, LumiSection 89 at 19-Sep-2016 10:30:15.436 CDT
+Begin processing the 6781st record. Run 1, Event 8884, LumiSection 89 at 19-Sep-2016 10:30:15.579 CDT
+Begin processing the 6791st record. Run 1, Event 8890, LumiSection 89 at 19-Sep-2016 10:30:15.733 CDT
+19-Sep-2016 10:30:15 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/CA0D2CF1-7255-E611-A727-0CC47A4C8E2A.root
+19-Sep-2016 10:30:15 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/D6C6B2F0-7255-E611-9C64-0025905A60B8.root
+19-Sep-2016 10:30:17 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/D6C6B2F0-7255-E611-9C64-0025905A60B8.root
+Begin processing the 6801st record. Run 1, Event 6707, LumiSection 68 at 19-Sep-2016 10:30:18.153 CDT
+Begin processing the 6811th record. Run 1, Event 6712, LumiSection 68 at 19-Sep-2016 10:30:23.582 CDT
+Begin processing the 6821st record. Run 1, Event 6720, LumiSection 68 at 19-Sep-2016 10:30:23.955 CDT
+Begin processing the 6831st record. Run 1, Event 6735, LumiSection 68 at 19-Sep-2016 10:30:24.356 CDT
+Begin processing the 6841st record. Run 1, Event 6741, LumiSection 68 at 19-Sep-2016 10:30:24.788 CDT
+Begin processing the 6851st record. Run 1, Event 6752, LumiSection 68 at 19-Sep-2016 10:30:25.176 CDT
+Begin processing the 6861st record. Run 1, Event 6762, LumiSection 68 at 19-Sep-2016 10:30:25.600 CDT
+Begin processing the 6871st record. Run 1, Event 6770, LumiSection 68 at 19-Sep-2016 10:30:26.028 CDT
+Begin processing the 6881st record. Run 1, Event 6783, LumiSection 68 at 19-Sep-2016 10:30:26.399 CDT
+Begin processing the 6891st record. Run 1, Event 6794, LumiSection 68 at 19-Sep-2016 10:30:26.847 CDT
+Begin processing the 6901st record. Run 1, Event 8705, LumiSection 88 at 19-Sep-2016 10:30:27.193 CDT
+Begin processing the 6911th record. Run 1, Event 8704, LumiSection 88 at 19-Sep-2016 10:30:27.647 CDT
+Begin processing the 6921st record. Run 1, Event 8722, LumiSection 88 at 19-Sep-2016 10:30:28.080 CDT
+Begin processing the 6931st record. Run 1, Event 8731, LumiSection 88 at 19-Sep-2016 10:30:28.557 CDT
+Begin processing the 6941st record. Run 1, Event 8738, LumiSection 88 at 19-Sep-2016 10:30:29.044 CDT
+Begin processing the 6951st record. Run 1, Event 8753, LumiSection 88 at 19-Sep-2016 10:30:29.482 CDT
+Begin processing the 6961st record. Run 1, Event 8764, LumiSection 88 at 19-Sep-2016 10:30:29.956 CDT
+Begin processing the 6971st record. Run 1, Event 8771, LumiSection 88 at 19-Sep-2016 10:30:30.386 CDT
+Begin processing the 6981st record. Run 1, Event 8783, LumiSection 88 at 19-Sep-2016 10:30:30.807 CDT
+Begin processing the 6991st record. Run 1, Event 8794, LumiSection 88 at 19-Sep-2016 10:30:31.286 CDT
+19-Sep-2016 10:30:31 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/D6C6B2F0-7255-E611-9C64-0025905A60B8.root
+19-Sep-2016 10:30:31 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/DABB257D-7055-E611-BB04-0CC47A4C8F10.root
+19-Sep-2016 10:30:32 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/DABB257D-7055-E611-BB04-0CC47A4C8F10.root
+Begin processing the 7001st record. Run 1, Event 3305, LumiSection 34 at 19-Sep-2016 10:30:33.678 CDT
+Begin processing the 7011th record. Run 1, Event 3313, LumiSection 34 at 19-Sep-2016 10:30:37.799 CDT
+Begin processing the 7021st record. Run 1, Event 3320, LumiSection 34 at 19-Sep-2016 10:30:38.201 CDT
+Begin processing the 7031st record. Run 1, Event 3324, LumiSection 34 at 19-Sep-2016 10:30:38.601 CDT
+Begin processing the 7041st record. Run 1, Event 3339, LumiSection 34 at 19-Sep-2016 10:30:38.993 CDT
+Begin processing the 7051st record. Run 1, Event 3354, LumiSection 34 at 19-Sep-2016 10:30:39.421 CDT
+Begin processing the 7061st record. Run 1, Event 3348, LumiSection 34 at 19-Sep-2016 10:30:39.844 CDT
+Begin processing the 7071st record. Run 1, Event 3371, LumiSection 34 at 19-Sep-2016 10:30:40.366 CDT
+Begin processing the 7081st record. Run 1, Event 3382, LumiSection 34 at 19-Sep-2016 10:30:40.770 CDT
+Begin processing the 7091st record. Run 1, Event 3391, LumiSection 34 at 19-Sep-2016 10:30:41.188 CDT
+Begin processing the 7101st record. Run 1, Event 3503, LumiSection 36 at 19-Sep-2016 10:30:41.578 CDT
+Begin processing the 7111th record. Run 1, Event 3512, LumiSection 36 at 19-Sep-2016 10:30:41.980 CDT
+Begin processing the 7121st record. Run 1, Event 3520, LumiSection 36 at 19-Sep-2016 10:30:42.467 CDT
+Begin processing the 7131st record. Run 1, Event 3528, LumiSection 36 at 19-Sep-2016 10:30:42.926 CDT
+Begin processing the 7141st record. Run 1, Event 3545, LumiSection 36 at 19-Sep-2016 10:30:43.390 CDT
+Begin processing the 7151st record. Run 1, Event 3551, LumiSection 36 at 19-Sep-2016 10:30:43.827 CDT
+Begin processing the 7161st record. Run 1, Event 3555, LumiSection 36 at 19-Sep-2016 10:30:44.217 CDT
+Begin processing the 7171st record. Run 1, Event 3568, LumiSection 36 at 19-Sep-2016 10:30:44.607 CDT
+Begin processing the 7181st record. Run 1, Event 3583, LumiSection 36 at 19-Sep-2016 10:30:44.947 CDT
+Begin processing the 7191st record. Run 1, Event 3592, LumiSection 36 at 19-Sep-2016 10:30:45.416 CDT
+Begin processing the 7201st record. Run 1, Event 3901, LumiSection 40 at 19-Sep-2016 10:30:45.765 CDT
+Begin processing the 7211th record. Run 1, Event 3914, LumiSection 40 at 19-Sep-2016 10:30:46.097 CDT
+Begin processing the 7221st record. Run 1, Event 3925, LumiSection 40 at 19-Sep-2016 10:30:46.483 CDT
+Begin processing the 7231st record. Run 1, Event 3934, LumiSection 40 at 19-Sep-2016 10:30:46.835 CDT
+Begin processing the 7241st record. Run 1, Event 3944, LumiSection 40 at 19-Sep-2016 10:30:47.234 CDT
+Begin processing the 7251st record. Run 1, Event 3954, LumiSection 40 at 19-Sep-2016 10:30:48.312 CDT
+Begin processing the 7261st record. Run 1, Event 3959, LumiSection 40 at 19-Sep-2016 10:30:48.616 CDT
+Begin processing the 7271st record. Run 1, Event 3967, LumiSection 40 at 19-Sep-2016 10:30:49.046 CDT
+Begin processing the 7281st record. Run 1, Event 3983, LumiSection 40 at 19-Sep-2016 10:30:49.446 CDT
+Begin processing the 7291st record. Run 1, Event 3992, LumiSection 40 at 19-Sep-2016 10:30:49.806 CDT
+19-Sep-2016 10:30:50 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/DABB257D-7055-E611-BB04-0CC47A4C8F10.root
+19-Sep-2016 10:30:50 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/DEF3D7F0-7255-E611-B8F9-0CC47A78A42C.root
+19-Sep-2016 10:30:51 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/DEF3D7F0-7255-E611-B8F9-0CC47A78A42C.root
+Begin processing the 7301st record. Run 1, Event 1604, LumiSection 17 at 19-Sep-2016 10:30:52.507 CDT
+Begin processing the 7311th record. Run 1, Event 1610, LumiSection 17 at 19-Sep-2016 10:30:56.292 CDT
+Begin processing the 7321st record. Run 1, Event 1621, LumiSection 17 at 19-Sep-2016 10:30:56.601 CDT
+Begin processing the 7331st record. Run 1, Event 1632, LumiSection 17 at 19-Sep-2016 10:30:56.876 CDT
+Begin processing the 7341st record. Run 1, Event 1642, LumiSection 17 at 19-Sep-2016 10:30:57.090 CDT
+Begin processing the 7351st record. Run 1, Event 1653, LumiSection 17 at 19-Sep-2016 10:30:57.269 CDT
+Begin processing the 7361st record. Run 1, Event 1664, LumiSection 17 at 19-Sep-2016 10:30:57.461 CDT
+Begin processing the 7371st record. Run 1, Event 1672, LumiSection 17 at 19-Sep-2016 10:30:57.722 CDT
+Begin processing the 7381st record. Run 1, Event 1682, LumiSection 17 at 19-Sep-2016 10:30:58.006 CDT
+Begin processing the 7391st record. Run 1, Event 1688, LumiSection 17 at 19-Sep-2016 10:30:58.147 CDT
+Begin processing the 7401st record. Run 1, Event 5306, LumiSection 54 at 19-Sep-2016 10:30:58.314 CDT
+Begin processing the 7411th record. Run 1, Event 5311, LumiSection 54 at 19-Sep-2016 10:30:58.463 CDT
+Begin processing the 7421st record. Run 1, Event 5317, LumiSection 54 at 19-Sep-2016 10:30:58.732 CDT
+Begin processing the 7431st record. Run 1, Event 5332, LumiSection 54 at 19-Sep-2016 10:30:59.004 CDT
+Begin processing the 7441st record. Run 1, Event 5344, LumiSection 54 at 19-Sep-2016 10:30:59.154 CDT
+Begin processing the 7451st record. Run 1, Event 5354, LumiSection 54 at 19-Sep-2016 10:30:59.294 CDT
+Begin processing the 7461st record. Run 1, Event 5358, LumiSection 54 at 19-Sep-2016 10:30:59.459 CDT
+Begin processing the 7471st record. Run 1, Event 5371, LumiSection 54 at 19-Sep-2016 10:30:59.625 CDT
+Begin processing the 7481st record. Run 1, Event 5385, LumiSection 54 at 19-Sep-2016 10:30:59.787 CDT
+Begin processing the 7491st record. Run 1, Event 5394, LumiSection 54 at 19-Sep-2016 10:30:59.947 CDT
+Begin processing the 7501st record. Run 1, Event 5402, LumiSection 55 at 19-Sep-2016 10:31:00.094 CDT
+Begin processing the 7511th record. Run 1, Event 5412, LumiSection 55 at 19-Sep-2016 10:31:00.237 CDT
+Begin processing the 7521st record. Run 1, Event 5424, LumiSection 55 at 19-Sep-2016 10:31:00.416 CDT
+Begin processing the 7531st record. Run 1, Event 5432, LumiSection 55 at 19-Sep-2016 10:31:00.579 CDT
+Begin processing the 7541st record. Run 1, Event 5444, LumiSection 55 at 19-Sep-2016 10:31:00.715 CDT
+Begin processing the 7551st record. Run 1, Event 5454, LumiSection 55 at 19-Sep-2016 10:31:02.093 CDT
+Begin processing the 7561st record. Run 1, Event 5464, LumiSection 55 at 19-Sep-2016 10:31:02.369 CDT
+Begin processing the 7571st record. Run 1, Event 5473, LumiSection 55 at 19-Sep-2016 10:31:02.577 CDT
+Begin processing the 7581st record. Run 1, Event 5483, LumiSection 55 at 19-Sep-2016 10:31:02.724 CDT
+Begin processing the 7591st record. Run 1, Event 5491, LumiSection 55 at 19-Sep-2016 10:31:02.870 CDT
+19-Sep-2016 10:31:03 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/DEF3D7F0-7255-E611-B8F9-0CC47A78A42C.root
+19-Sep-2016 10:31:03 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/E04738EF-7255-E611-BDC3-0CC47A4D764A.root
+19-Sep-2016 10:31:04 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/E04738EF-7255-E611-BDC3-0CC47A4D764A.root
+Begin processing the 7601st record. Run 1, Event 6205, LumiSection 63 at 19-Sep-2016 10:31:05.281 CDT
+Begin processing the 7611th record. Run 1, Event 6212, LumiSection 63 at 19-Sep-2016 10:31:12.422 CDT
+Begin processing the 7621st record. Run 1, Event 6219, LumiSection 63 at 19-Sep-2016 10:31:12.725 CDT
+Begin processing the 7631st record. Run 1, Event 6233, LumiSection 63 at 19-Sep-2016 10:31:12.996 CDT
+Begin processing the 7641st record. Run 1, Event 6242, LumiSection 63 at 19-Sep-2016 10:31:13.152 CDT
+Begin processing the 7651st record. Run 1, Event 6253, LumiSection 63 at 19-Sep-2016 10:31:13.286 CDT
+Begin processing the 7661st record. Run 1, Event 6264, LumiSection 63 at 19-Sep-2016 10:31:13.444 CDT
+Begin processing the 7671st record. Run 1, Event 6273, LumiSection 63 at 19-Sep-2016 10:31:13.602 CDT
+Begin processing the 7681st record. Run 1, Event 6277, LumiSection 63 at 19-Sep-2016 10:31:13.759 CDT
+Begin processing the 7691st record. Run 1, Event 6290, LumiSection 63 at 19-Sep-2016 10:31:13.924 CDT
+Begin processing the 7701st record. Run 1, Event 6503, LumiSection 66 at 19-Sep-2016 10:31:14.140 CDT
+Begin processing the 7711th record. Run 1, Event 6512, LumiSection 66 at 19-Sep-2016 10:31:14.439 CDT
+Begin processing the 7721st record. Run 1, Event 6522, LumiSection 66 at 19-Sep-2016 10:31:14.630 CDT
+Begin processing the 7731st record. Run 1, Event 6531, LumiSection 66 at 19-Sep-2016 10:31:14.782 CDT
+Begin processing the 7741st record. Run 1, Event 6540, LumiSection 66 at 19-Sep-2016 10:31:14.928 CDT
+Begin processing the 7751st record. Run 1, Event 6549, LumiSection 66 at 19-Sep-2016 10:31:15.080 CDT
+Begin processing the 7761st record. Run 1, Event 6562, LumiSection 66 at 19-Sep-2016 10:31:15.236 CDT
+Begin processing the 7771st record. Run 1, Event 6568, LumiSection 66 at 19-Sep-2016 10:31:15.397 CDT
+Begin processing the 7781st record. Run 1, Event 6581, LumiSection 66 at 19-Sep-2016 10:31:15.540 CDT
+Begin processing the 7791st record. Run 1, Event 6592, LumiSection 66 at 19-Sep-2016 10:31:15.708 CDT
+Begin processing the 7801st record. Run 1, Event 6903, LumiSection 70 at 19-Sep-2016 10:31:15.890 CDT
+Begin processing the 7811th record. Run 1, Event 6912, LumiSection 70 at 19-Sep-2016 10:31:16.058 CDT
+Begin processing the 7821st record. Run 1, Event 6919, LumiSection 70 at 19-Sep-2016 10:31:16.222 CDT
+Begin processing the 7831st record. Run 1, Event 6934, LumiSection 70 at 19-Sep-2016 10:31:16.361 CDT
+Begin processing the 7841st record. Run 1, Event 6939, LumiSection 70 at 19-Sep-2016 10:31:18.692 CDT
+Begin processing the 7851st record. Run 1, Event 6951, LumiSection 70 at 19-Sep-2016 10:31:19.014 CDT
+Begin processing the 7861st record. Run 1, Event 6960, LumiSection 70 at 19-Sep-2016 10:31:19.317 CDT
+Begin processing the 7871st record. Run 1, Event 6974, LumiSection 70 at 19-Sep-2016 10:31:19.562 CDT
+Begin processing the 7881st record. Run 1, Event 6984, LumiSection 70 at 19-Sep-2016 10:31:19.717 CDT
+Begin processing the 7891st record. Run 1, Event 6990, LumiSection 70 at 19-Sep-2016 10:31:19.897 CDT
+19-Sep-2016 10:31:20 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/E04738EF-7255-E611-BDC3-0CC47A4D764A.root
+19-Sep-2016 10:31:20 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/E4E2D294-7055-E611-B7AA-0CC47A4C8E64.root
+19-Sep-2016 10:31:21 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/E4E2D294-7055-E611-B7AA-0CC47A4C8E64.root
+Begin processing the 7901st record. Run 1, Event 1403, LumiSection 15 at 19-Sep-2016 10:31:22.493 CDT
+Begin processing the 7911th record. Run 1, Event 1408, LumiSection 15 at 19-Sep-2016 10:31:31.200 CDT
+Begin processing the 7921st record. Run 1, Event 1424, LumiSection 15 at 19-Sep-2016 10:31:31.519 CDT
+Begin processing the 7931st record. Run 1, Event 1421, LumiSection 15 at 19-Sep-2016 10:31:31.815 CDT
+Begin processing the 7941st record. Run 1, Event 1442, LumiSection 15 at 19-Sep-2016 10:31:32.048 CDT
+Begin processing the 7951st record. Run 1, Event 1450, LumiSection 15 at 19-Sep-2016 10:31:32.219 CDT
+Begin processing the 7961st record. Run 1, Event 1464, LumiSection 15 at 19-Sep-2016 10:31:32.388 CDT
+Begin processing the 7971st record. Run 1, Event 1472, LumiSection 15 at 19-Sep-2016 10:31:32.550 CDT
+Begin processing the 7981st record. Run 1, Event 1471, LumiSection 15 at 19-Sep-2016 10:31:32.720 CDT
+Begin processing the 7991st record. Run 1, Event 1493, LumiSection 15 at 19-Sep-2016 10:31:32.877 CDT
+Begin processing the 8001st record. Run 1, Event 2202, LumiSection 23 at 19-Sep-2016 10:31:33.105 CDT
+Begin processing the 8011th record. Run 1, Event 2212, LumiSection 23 at 19-Sep-2016 10:31:33.429 CDT
+Begin processing the 8021st record. Run 1, Event 2225, LumiSection 23 at 19-Sep-2016 10:31:33.626 CDT
+Begin processing the 8031st record. Run 1, Event 2232, LumiSection 23 at 19-Sep-2016 10:31:33.815 CDT
+Begin processing the 8041st record. Run 1, Event 2243, LumiSection 23 at 19-Sep-2016 10:31:33.996 CDT
+Begin processing the 8051st record. Run 1, Event 2252, LumiSection 23 at 19-Sep-2016 10:31:34.147 CDT
+Begin processing the 8061st record. Run 1, Event 2262, LumiSection 23 at 19-Sep-2016 10:31:34.305 CDT
+Begin processing the 8071st record. Run 1, Event 2273, LumiSection 23 at 19-Sep-2016 10:31:34.444 CDT
+Begin processing the 8081st record. Run 1, Event 2281, LumiSection 23 at 19-Sep-2016 10:31:34.607 CDT
+Begin processing the 8091st record. Run 1, Event 2294, LumiSection 23 at 19-Sep-2016 10:31:34.750 CDT
+Begin processing the 8101st record. Run 1, Event 2901, LumiSection 30 at 19-Sep-2016 10:31:34.918 CDT
+Begin processing the 8111th record. Run 1, Event 2914, LumiSection 30 at 19-Sep-2016 10:31:35.082 CDT
+Begin processing the 8121st record. Run 1, Event 2921, LumiSection 30 at 19-Sep-2016 10:31:35.226 CDT
+Begin processing the 8131st record. Run 1, Event 2933, LumiSection 30 at 19-Sep-2016 10:31:35.384 CDT
+Begin processing the 8141st record. Run 1, Event 2942, LumiSection 30 at 19-Sep-2016 10:31:37.712 CDT
+Begin processing the 8151st record. Run 1, Event 2953, LumiSection 30 at 19-Sep-2016 10:31:37.983 CDT
+Begin processing the 8161st record. Run 1, Event 2965, LumiSection 30 at 19-Sep-2016 10:31:38.275 CDT
+Begin processing the 8171st record. Run 1, Event 2972, LumiSection 30 at 19-Sep-2016 10:31:38.599 CDT
+Begin processing the 8181st record. Run 1, Event 2981, LumiSection 30 at 19-Sep-2016 10:31:38.895 CDT
+Begin processing the 8191st record. Run 1, Event 2991, LumiSection 30 at 19-Sep-2016 10:31:39.104 CDT
+19-Sep-2016 10:31:39 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/E4E2D294-7055-E611-B7AA-0CC47A4C8E64.root
+19-Sep-2016 10:31:39 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/E69C0FE7-7055-E611-9E40-0CC47A4D762E.root
+19-Sep-2016 10:31:40 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/E69C0FE7-7055-E611-9E40-0CC47A4D762E.root
+Begin processing the 8201st record. Run 1, Event 1705, LumiSection 18 at 19-Sep-2016 10:31:41.693 CDT
+Begin processing the 8211th record. Run 1, Event 1712, LumiSection 18 at 19-Sep-2016 10:31:57.232 CDT
+Begin processing the 8221st record. Run 1, Event 1722, LumiSection 18 at 19-Sep-2016 10:31:57.554 CDT
+Begin processing the 8231st record. Run 1, Event 1734, LumiSection 18 at 19-Sep-2016 10:31:57.810 CDT
+Begin processing the 8241st record. Run 1, Event 1741, LumiSection 18 at 19-Sep-2016 10:31:58.050 CDT
+Begin processing the 8251st record. Run 1, Event 1754, LumiSection 18 at 19-Sep-2016 10:31:58.203 CDT
+Begin processing the 8261st record. Run 1, Event 1764, LumiSection 18 at 19-Sep-2016 10:31:58.383 CDT
+Begin processing the 8271st record. Run 1, Event 1773, LumiSection 18 at 19-Sep-2016 10:31:58.579 CDT
+Begin processing the 8281st record. Run 1, Event 1784, LumiSection 18 at 19-Sep-2016 10:31:58.852 CDT
+Begin processing the 8291st record. Run 1, Event 1793, LumiSection 18 at 19-Sep-2016 10:31:59.072 CDT
+Begin processing the 8301st record. Run 1, Event 8902, LumiSection 90 at 19-Sep-2016 10:31:59.247 CDT
+Begin processing the 8311th record. Run 1, Event 8907, LumiSection 90 at 19-Sep-2016 10:31:59.413 CDT
+Begin processing the 8321st record. Run 1, Event 8923, LumiSection 90 at 19-Sep-2016 10:31:59.597 CDT
+Begin processing the 8331st record. Run 1, Event 8932, LumiSection 90 at 19-Sep-2016 10:31:59.766 CDT
+Begin processing the 8341st record. Run 1, Event 8944, LumiSection 90 at 19-Sep-2016 10:31:59.913 CDT
+Begin processing the 8351st record. Run 1, Event 8950, LumiSection 90 at 19-Sep-2016 10:32:00.054 CDT
+Begin processing the 8361st record. Run 1, Event 8958, LumiSection 90 at 19-Sep-2016 10:32:00.193 CDT
+Begin processing the 8371st record. Run 1, Event 8973, LumiSection 90 at 19-Sep-2016 10:32:00.349 CDT
+Begin processing the 8381st record. Run 1, Event 8980, LumiSection 90 at 19-Sep-2016 10:32:00.492 CDT
+Begin processing the 8391st record. Run 1, Event 8993, LumiSection 90 at 19-Sep-2016 10:32:00.640 CDT
+19-Sep-2016 10:32:00 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/E69C0FE7-7055-E611-9E40-0CC47A4D762E.root
+19-Sep-2016 10:32:00 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/F88BD221-7255-E611-97E3-0025905A48D8.root
+19-Sep-2016 10:32:01 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/F88BD221-7255-E611-97E3-0025905A48D8.root
+Begin processing the 8401st record. Run 1, Event 3605, LumiSection 37 at 19-Sep-2016 10:32:03.158 CDT
+Begin processing the 8411th record. Run 1, Event 3613, LumiSection 37 at 19-Sep-2016 10:32:06.971 CDT
+Begin processing the 8421st record. Run 1, Event 3621, LumiSection 37 at 19-Sep-2016 10:32:07.287 CDT
+Begin processing the 8431st record. Run 1, Event 3630, LumiSection 37 at 19-Sep-2016 10:32:07.583 CDT
+Begin processing the 8441st record. Run 1, Event 3642, LumiSection 37 at 19-Sep-2016 10:32:07.834 CDT
+Begin processing the 8451st record. Run 1, Event 3647, LumiSection 37 at 19-Sep-2016 10:32:08.081 CDT
+Begin processing the 8461st record. Run 1, Event 3662, LumiSection 37 at 19-Sep-2016 10:32:08.219 CDT
+Begin processing the 8471st record. Run 1, Event 3669, LumiSection 37 at 19-Sep-2016 10:32:08.403 CDT
+Begin processing the 8481st record. Run 1, Event 3680, LumiSection 37 at 19-Sep-2016 10:32:08.575 CDT
+Begin processing the 8491st record. Run 1, Event 3693, LumiSection 37 at 19-Sep-2016 10:32:08.867 CDT
+Begin processing the 8501st record. Run 1, Event 3802, LumiSection 39 at 19-Sep-2016 10:32:09.095 CDT
+Begin processing the 8511th record. Run 1, Event 3812, LumiSection 39 at 19-Sep-2016 10:32:09.241 CDT
+Begin processing the 8521st record. Run 1, Event 3818, LumiSection 39 at 19-Sep-2016 10:32:09.383 CDT
+Begin processing the 8531st record. Run 1, Event 3831, LumiSection 39 at 19-Sep-2016 10:32:09.657 CDT
+Begin processing the 8541st record. Run 1, Event 3842, LumiSection 39 at 19-Sep-2016 10:32:09.918 CDT
+Begin processing the 8551st record. Run 1, Event 3851, LumiSection 39 at 19-Sep-2016 10:32:10.112 CDT
+Begin processing the 8561st record. Run 1, Event 3859, LumiSection 39 at 19-Sep-2016 10:32:10.261 CDT
+Begin processing the 8571st record. Run 1, Event 3874, LumiSection 39 at 19-Sep-2016 10:32:10.425 CDT
+Begin processing the 8581st record. Run 1, Event 3883, LumiSection 39 at 19-Sep-2016 10:32:10.580 CDT
+Begin processing the 8591st record. Run 1, Event 3891, LumiSection 39 at 19-Sep-2016 10:32:10.758 CDT
+Begin processing the 8601st record. Run 1, Event 8005, LumiSection 81 at 19-Sep-2016 10:32:10.920 CDT
+Begin processing the 8611th record. Run 1, Event 8012, LumiSection 81 at 19-Sep-2016 10:32:11.095 CDT
+Begin processing the 8621st record. Run 1, Event 8023, LumiSection 81 at 19-Sep-2016 10:32:11.255 CDT
+Begin processing the 8631st record. Run 1, Event 8032, LumiSection 81 at 19-Sep-2016 10:32:11.401 CDT
+Begin processing the 8641st record. Run 1, Event 8041, LumiSection 81 at 19-Sep-2016 10:32:11.555 CDT
+Begin processing the 8651st record. Run 1, Event 8052, LumiSection 81 at 19-Sep-2016 10:32:12.435 CDT
+Begin processing the 8661st record. Run 1, Event 8062, LumiSection 81 at 19-Sep-2016 10:32:12.708 CDT
+Begin processing the 8671st record. Run 1, Event 8068, LumiSection 81 at 19-Sep-2016 10:32:13.007 CDT
+Begin processing the 8681st record. Run 1, Event 8078, LumiSection 81 at 19-Sep-2016 10:32:13.177 CDT
+Begin processing the 8691st record. Run 1, Event 8094, LumiSection 81 at 19-Sep-2016 10:32:13.329 CDT
+19-Sep-2016 10:32:13 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/F88BD221-7255-E611-97E3-0025905A48D8.root
+19-Sep-2016 10:32:13 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/FA5F7E7E-7055-E611-8095-0025905B856E.root
+19-Sep-2016 10:32:14 CDT  Successfully opened file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/FA5F7E7E-7055-E611-8095-0025905B856E.root
+Begin processing the 8701st record. Run 1, Event 1001, LumiSection 11 at 19-Sep-2016 10:32:15.404 CDT
+Begin processing the 8711th record. Run 1, Event 1007, LumiSection 11 at 19-Sep-2016 10:32:22.834 CDT
+Begin processing the 8721st record. Run 1, Event 1022, LumiSection 11 at 19-Sep-2016 10:32:23.234 CDT
+Begin processing the 8731st record. Run 1, Event 1034, LumiSection 11 at 19-Sep-2016 10:32:23.711 CDT
+Begin processing the 8741st record. Run 1, Event 1044, LumiSection 11 at 19-Sep-2016 10:32:24.084 CDT
+Begin processing the 8751st record. Run 1, Event 1050, LumiSection 11 at 19-Sep-2016 10:32:24.479 CDT
+Begin processing the 8761st record. Run 1, Event 1062, LumiSection 11 at 19-Sep-2016 10:32:24.960 CDT
+Begin processing the 8771st record. Run 1, Event 1066, LumiSection 11 at 19-Sep-2016 10:32:25.418 CDT
+Begin processing the 8781st record. Run 1, Event 1079, LumiSection 11 at 19-Sep-2016 10:32:25.802 CDT
+Begin processing the 8791st record. Run 1, Event 1091, LumiSection 11 at 19-Sep-2016 10:32:26.335 CDT
+Begin processing the 8801st record. Run 1, Event 1304, LumiSection 14 at 19-Sep-2016 10:32:26.702 CDT
+Begin processing the 8811th record. Run 1, Event 1301, LumiSection 14 at 19-Sep-2016 10:32:27.086 CDT
+Begin processing the 8821st record. Run 1, Event 1315, LumiSection 14 at 19-Sep-2016 10:32:27.466 CDT
+Begin processing the 8831st record. Run 1, Event 1328, LumiSection 14 at 19-Sep-2016 10:32:27.833 CDT
+Begin processing the 8841st record. Run 1, Event 1342, LumiSection 14 at 19-Sep-2016 10:32:28.222 CDT
+Begin processing the 8851st record. Run 1, Event 1352, LumiSection 14 at 19-Sep-2016 10:32:28.636 CDT
+Begin processing the 8861st record. Run 1, Event 1361, LumiSection 14 at 19-Sep-2016 10:32:29.053 CDT
+Begin processing the 8871st record. Run 1, Event 1368, LumiSection 14 at 19-Sep-2016 10:32:29.486 CDT
+Begin processing the 8881st record. Run 1, Event 1383, LumiSection 14 at 19-Sep-2016 10:32:29.901 CDT
+Begin processing the 8891st record. Run 1, Event 1395, LumiSection 14 at 19-Sep-2016 10:32:30.361 CDT
+Begin processing the 8901st record. Run 1, Event 1507, LumiSection 16 at 19-Sep-2016 10:32:30.737 CDT
+Begin processing the 8911th record. Run 1, Event 1514, LumiSection 16 at 19-Sep-2016 10:32:31.061 CDT
+Begin processing the 8921st record. Run 1, Event 1523, LumiSection 16 at 19-Sep-2016 10:32:31.543 CDT
+Begin processing the 8931st record. Run 1, Event 1532, LumiSection 16 at 19-Sep-2016 10:32:32.020 CDT
+Begin processing the 8941st record. Run 1, Event 1526, LumiSection 16 at 19-Sep-2016 10:32:32.399 CDT
+Begin processing the 8951st record. Run 1, Event 1550, LumiSection 16 at 19-Sep-2016 10:32:34.181 CDT
+Begin processing the 8961st record. Run 1, Event 1563, LumiSection 16 at 19-Sep-2016 10:32:34.651 CDT
+Begin processing the 8971st record. Run 1, Event 1566, LumiSection 16 at 19-Sep-2016 10:32:35.077 CDT
+Begin processing the 8981st record. Run 1, Event 1584, LumiSection 16 at 19-Sep-2016 10:32:35.504 CDT
+Begin processing the 8991st record. Run 1, Event 1582, LumiSection 16 at 19-Sep-2016 10:32:35.886 CDT
+19-Sep-2016 10:32:36 CDT  Closed file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValSingleElectronPt35Extended/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/FA5F7E7E-7055-E611-8095-0025905B856E.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 JetPtMismatch        -e JetFlavourCluste                       1        1
+    2 fileAction           -s file_close                            34       34
+    3 fileAction           -s file_open                             68       68
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 JetPtMismatch        1/6405                            
+    2 fileAction           PostProcessEvent PostProcessEvent PostEndRun
+    3 fileAction           pre-events       pre-events       PostProcessEvent
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Error                   1                   1
+System                102                 102

@@ -1,0 +1,16 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/Common"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="DataFormats/VertexReco"/>
+<use name="DataFormats/PatCandidates"/>
+<use name="DataFormats/Math"/>
+<use name="DataFormats/Common"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="EgammaAnalysis/ElectronTools"/>
+<use name="RecoEgamma/EgammaTools"/>
+<use name="DataFormats/BTauReco"/> 
+<use name="DataFormats/JetReco"/>
+<use name="SimDataFormats/JetMatching"/>
+<flags EDM_PLUGIN="1"/>

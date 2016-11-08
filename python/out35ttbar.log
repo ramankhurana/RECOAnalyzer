@@ -1,0 +1,40 @@
+23-Sep-2016 09:39:32 CDT  Initiating request to open file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root
+[2016-09-23 09:42:33.251375 -0500][Error  ][XRootD            ] [cmsdcadisk01.fnal.gov:1095] Unable to get the response to request kXR_open (file: /store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root, mode: 0660, flags: kXR_open_read kXR_async kXR_retstat )
+%MSG-w XrdAdaptorInternal:  file_open 23-Sep-2016 09:42:33 CDT pre-events
+Failed to open file at URL root://cmsdcadisk01.fnal.gov:1095//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root.
+%MSG
+[2016-09-23 09:45:33.278303 -0500][Error  ][XRootD            ] [cmsdcadisk01.fnal.gov:1095] Unable to get the response to request kXR_open (file: /store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root?tried=, mode: 0660, flags: kXR_open_read kXR_async kXR_retstat )
+%MSG-w XrdAdaptorInternal:  file_open 23-Sep-2016 09:45:33 CDT pre-events
+Failed to open file at URL root://cmsdcadisk01.fnal.gov:1095//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root?tried=.
+%MSG
+23-Sep-2016 09:45:33 CDT  Fallback request to file root://cmsxrootd.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root
+[2016-09-23 09:48:48.307803 -0500][Error  ][XRootD            ] [cmsdcadisk01.fnal.gov:1095] Unable to get the response to request kXR_open (file: /store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root, mode: 0660, flags: kXR_open_read kXR_async kXR_retstat )
+%MSG-w XrdAdaptorInternal:  file_open 23-Sep-2016 09:48:48 CDT pre-events
+Failed to open file at URL root://cmsdcadisk01.fnal.gov:1095//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root.
+%MSG
+[2016-09-23 09:51:48.337502 -0500][Error  ][XRootD            ] [cmsdcadisk01.fnal.gov:1095] Unable to get the response to request kXR_open (file: /store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root?tried=, mode: 0660, flags: kXR_open_read kXR_async kXR_retstat )
+%MSG-w XrdAdaptorInternal:  file_open 23-Sep-2016 09:51:48 CDT pre-events
+Failed to open file at URL root://cmsdcadisk01.fnal.gov:1095//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root?tried=.
+%MSG
+----- Begin Fatal Exception 23-Sep-2016 09:51:48 CDT-----------------------
+An exception of category 'FallbackFileOpenError' occurred while
+   [0] Constructing the EventProcessor
+   [1] Constructing input source of type PoolSource
+   [2] Calling RootFileSequenceBase::initTheFile()
+   [3] Calling StorageFactory::open()
+   [4] Calling XrdFile::open()
+Exception Message:
+Failed to open the file 'root://cmsxrootd.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root'
+   Additional Info:
+      [a] XrdCl::File::Open(name='root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root', flags=0x10, permissions=0660) => error '[ERROR] Operation expired' (errno=0, code=206). No additional data servers were found.
+      [b] Last URL tried: root://cmsdcadisk01.fnal.gov:1095//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root?tried=
+      [c] Problematic data server: cmsdcadisk01.fnal.gov:1095
+      [d] Disabled source: cmsdcadisk01.fnal.gov:1095
+      [e] Input file root://cmsxrootd-site.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root could not be opened.
+Fallback Input file root://cmsxrootd.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root also could not be opened.
+Original exception info is above; fallback exception info is below.
+      [f] XrdCl::File::Open(name='root://cmsxrootd.fnal.gov//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root', flags=0x10, permissions=0660) => error '[ERROR] Operation expired' (errno=0, code=206). No additional data servers were found.
+      [g] Last URL tried: root://cmsdcadisk01.fnal.gov:1095//store/relval/CMSSW_8_1_0_pre9/RelValTTbar_14TeV/GEN-SIM-RECO/PU25ns_81X_mcRun2_asymptotic_v2_2023tiltedPU35-v1/10000/02C87E40-6B55-E611-9C28-0025905A48C0.root?tried=
+      [h] Problematic data server: cmsdcadisk01.fnal.gov:1095
+      [i] Disabled source: cmsdcadisk01.fnal.gov:1095
+----- End Fatal Exception -------------------------------------------------

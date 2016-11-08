@@ -1,0 +1,46 @@
+DEBUG 2016-07-13 03:03:26,595: 	 Executing command: 'submit'
+DEBUG 2016-07-13 03:03:26,626: 	 Found CRAB cache file /afs/cern.ch/user/d/drankin/.crab3
+DEBUG 2016-07-13 03:03:26,717: 	 Checking credentials
+DEBUG 2016-07-13 03:03:26,718: 	 Proxy file /tmp/x509up_u12522 not found
+DEBUG 2016-07-13 03:03:26,718: 	 Creating new proxy for 24:00 hours with VO group '' and VO role 'NULL'.
+ERROR 2016-07-13 03:03:27,555: 	 Keyboard Interrupted
+DEBUG 2016-09-06 06:39:59,550: 	 Executing command: 'kill'
+DEBUG 2016-09-06 06:39:59,550: 	 Found CRAB cache file /afs/cern.ch/user/d/drankin/.crab3
+DEBUG 2016-09-07 04:37:02,879: 	 Executing command: 'submit'
+DEBUG 2016-09-07 04:37:02,900: 	 Found CRAB cache file /afs/cern.ch/user/d/drankin/.crab3
+DEBUG 2016-09-07 04:37:02,919: 	 Checking credentials
+DEBUG 2016-09-07 04:37:02,920: 	 Found proxy file /tmp/x509up_u12522
+DEBUG 2016-09-07 04:37:02,920: 	 Getting proxy life time left
+DEBUG 2016-09-07 04:37:03,423: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u12522 -timeleft
+ output : 258511
+
+ error: 
+ retcode : 0
+DEBUG 2016-09-07 04:37:03,827: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u12522 -actimeleft
+ output : 42511
+
+ error: 
+ retcode : 0
+DEBUG 2016-09-07 04:37:03,827: 	 Proxy lifetime 71:48 is different from                    voms extension lifetime 11:48 for proxy /tmp/x509up_u12522
+DEBUG 2016-09-07 04:37:03,827: 	 Proxy valid for 00:00:00 hours
+DEBUG 2016-09-07 04:37:03,828: 	 Creating new proxy for 24:00 hours with VO group '' and VO role 'NULL'.
+ERROR 2016-09-07 04:37:31,418: 	 Keyboard Interrupted
+DEBUG 2016-09-07 15:15:52,066: 	 Executing command: 'resubmit'
+DEBUG 2016-09-07 15:15:52,067: 	 Found CRAB cache file /afs/cern.ch/user/d/drankin/.crab3
+DEBUG 2016-09-07 15:15:52,125: 	 Checking credentials
+DEBUG 2016-09-07 15:15:52,125: 	 Proxy file /tmp/x509up_u12522 not found
+DEBUG 2016-09-07 15:15:52,125: 	 Creating new proxy for 24:00 hours with VO group '' and VO role 'NULL'.
+DEBUG 2016-09-07 15:15:58,166: 	 Executing : 
+ command : voms-proxy-init -voms cms:/cms -valid 24:00 -rfc
+ output : None
+ error: None
+ retcode : 0
+DEBUG 2016-09-07 15:15:58,673: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u12522 -timeleft
+ output : 86398
+
+ error: 
+ retcode : 0
+ERROR 2016-09-07 15:15:59,103: 	 Keyboard Interrupted
