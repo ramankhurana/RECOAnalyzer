@@ -82,18 +82,6 @@ class RECOAnalyzer : public edm::EDAnalyzer {
       TH1F *elnum3, *elden3, *munum3, *muden3, *btnum3, *btden3;
       TH1F *mtnum, *mtden, *mtnum3, *mtden3;
 
-      TH1F *elnumcen, *eldencen, *munumcen, *mudencen, *btnumcen, *btdencen;
-      TH1F *munumtcen, *mudentcen, *munumt3cen, *mudent3cen;
-      TH1F *elnumtcen, *eldentcen, *elnumt3cen, *eldent3cen;
-      TH1F *elnum3cen, *elden3cen, *munum3cen, *muden3cen, *btnum3cen, *btden3cen;
-      TH1F *mtnumcen, *mtdencen, *mtnum3cen, *mtden3cen;
-
-      TH1F *elnumend, *eldenend, *munumend, *mudenend, *btnumend, *btdenend;
-      TH1F *munumtend, *mudentend, *munumt3end, *mudent3end;
-      TH1F *elnumtend, *eldentend, *elnumt3end, *eldent3end;
-      TH1F *elnum3end, *elden3end, *munum3end, *muden3end, *btnum3end, *btden3end;
-      TH1F *mtnumend, *mtdenend, *mtnum3end, *mtden3end;
-
       TH2F *elcutflow, *mucutflow;
       TH1F *eletanum, *eletaden, *muetanum, *muetaden, *btetanum, *btetaden;
       TH1F *muetanumt, *muetadent, *muetanumt3, *muetadent3;
@@ -104,7 +92,7 @@ class RECOAnalyzer : public edm::EDAnalyzer {
       TH2F *eldist, *mudist;
       TH2F *btdist, *mtdist;
 
-       bool debug;
+      bool debug;
 
   struct JetRefCompare :
     public std::binary_function<edm::RefToBase<reco::Jet>, edm::RefToBase<reco::Jet>, bool> {
@@ -131,56 +119,6 @@ RECOAnalyzer::RECOAnalyzer(const edm::ParameterSet& iConfig):
 {
     edm::Service<TFileService> fs;
     nvtx      = fs->make<TH1F>( "nvtx", "nvtx" , 250, 0, 250);
-
-    elnumcen     = fs->make<TH1F>( "elnumcen" , "elnumcen" , 100, 0, 1000);
-    eldencen     = fs->make<TH1F>( "eldencen" , "eldencen" , 100, 0, 1000);
-    elnum3cen     = fs->make<TH1F>( "elnum3cen" , "elnum3cen" , 100, 0, 1000);
-    elden3cen     = fs->make<TH1F>( "elden3cen" , "elden3cen" , 100, 0, 1000);
-    elnumtcen     = fs->make<TH1F>( "elnumtcen" , "elnumtcen" , 100, 0, 1000);
-    eldentcen     = fs->make<TH1F>( "eldentcen" , "eldentcen" , 100, 0, 1000);
-    elnumt3cen     = fs->make<TH1F>( "elnumt3cen" , "elnumt3cen" , 100, 0, 1000);
-    eldent3cen     = fs->make<TH1F>( "eldent3cen" , "eldent3cen" , 100, 0, 1000);
-    munumcen     = fs->make<TH1F>( "munumcen" , "munumcen" , 100, 0, 1000);
-    mudencen     = fs->make<TH1F>( "mudencen" , "mudencen" , 100, 0, 1000);
-    munum3cen     = fs->make<TH1F>( "munum3cen" , "munum3cen" , 100, 0, 1000);
-    muden3cen     = fs->make<TH1F>( "muden3cen" , "muden3cen" , 100, 0, 1000);
-    munumtcen     = fs->make<TH1F>( "munumtcen" , "munumtcen" , 100, 0, 1000);
-    mudentcen     = fs->make<TH1F>( "mudentcen" , "mudentcen" , 100, 0, 1000);
-    munumt3cen     = fs->make<TH1F>( "munumt3cen" , "munumt3cen" , 100, 0, 1000);
-    mudent3cen     = fs->make<TH1F>( "mudent3cen" , "mudent3cen" , 100, 0, 1000);
-    btnumcen     = fs->make<TH1F>( "btnumcen" , "btnumcen" , 100, 0, 1000);
-    btdencen     = fs->make<TH1F>( "btdencen" , "btdencen" , 100, 0, 1000);
-    btnum3cen     = fs->make<TH1F>( "btnum3cen" , "btnum3cen" , 100, 0, 1000);
-    btden3cen     = fs->make<TH1F>( "btden3cen" , "btden3cen" , 100, 0, 1000);
-    mtnumcen     = fs->make<TH1F>( "mtnumcen" , "mtnumcen" , 100, 0, 1000);
-    mtdencen     = fs->make<TH1F>( "mtdencen" , "mtdencen" , 100, 0, 1000);
-    mtnum3cen     = fs->make<TH1F>( "mtnum3cen" , "mtnum3cen" , 100, 0, 1000);
-    mtden3cen     = fs->make<TH1F>( "mtden3cen" , "mtden3cen" , 100, 0, 1000);
-
-    elnumend     = fs->make<TH1F>( "elnumend" , "elnumend" , 100, 0, 1000);
-    eldenend     = fs->make<TH1F>( "eldenend" , "eldenend" , 100, 0, 1000);
-    elnum3end     = fs->make<TH1F>( "elnum3end" , "elnum3end" , 100, 0, 1000);
-    elden3end     = fs->make<TH1F>( "elden3end" , "elden3end" , 100, 0, 1000);
-    elnumtend     = fs->make<TH1F>( "elnumtend" , "elnumtend" , 100, 0, 1000);
-    eldentend     = fs->make<TH1F>( "eldentend" , "eldentend" , 100, 0, 1000);
-    elnumt3end     = fs->make<TH1F>( "elnumt3end" , "elnumt3end" , 100, 0, 1000);
-    eldent3end     = fs->make<TH1F>( "eldent3end" , "eldent3end" , 100, 0, 1000);
-    munumend     = fs->make<TH1F>( "munumend" , "munumend" , 100, 0, 1000);
-    mudenend     = fs->make<TH1F>( "mudenend" , "mudenend" , 100, 0, 1000);
-    munum3end     = fs->make<TH1F>( "munum3end" , "munum3end" , 100, 0, 1000);
-    muden3end     = fs->make<TH1F>( "muden3end" , "muden3end" , 100, 0, 1000);
-    munumtend     = fs->make<TH1F>( "munumtend" , "munumtend" , 100, 0, 1000);
-    mudentend     = fs->make<TH1F>( "mudentend" , "mudentend" , 100, 0, 1000);
-    munumt3end     = fs->make<TH1F>( "munumt3end" , "munumt3end" , 100, 0, 1000);
-    mudent3end     = fs->make<TH1F>( "mudent3end" , "mudent3end" , 100, 0, 1000);
-    btnumend     = fs->make<TH1F>( "btnumend" , "btnumend" , 100, 0, 1000);
-    btdenend     = fs->make<TH1F>( "btdenend" , "btdenend" , 100, 0, 1000);
-    btnum3end     = fs->make<TH1F>( "btnum3end" , "btnum3end" , 100, 0, 1000);
-    btden3end     = fs->make<TH1F>( "btden3end" , "btden3end" , 100, 0, 1000);
-    mtnumend     = fs->make<TH1F>( "mtnumend" , "mtnumend" , 100, 0, 1000);
-    mtdenend     = fs->make<TH1F>( "mtdenend" , "mtdenend" , 100, 0, 1000);
-    mtnum3end     = fs->make<TH1F>( "mtnum3end" , "mtnum3end" , 100, 0, 1000);
-    mtden3end     = fs->make<TH1F>( "mtden3end" , "mtden3end" , 100, 0, 1000);
 
     elnum     = fs->make<TH1F>( "elnum", "elnum" , 100, 0, 1000);
     elden     = fs->make<TH1F>( "elden", "elden" , 100, 0, 1000);
@@ -298,25 +236,17 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
         }
         if (match && abs(jflav)==5) {
             btden->Fill(j.pt());
-            if (fabs(j.eta())<1.5) btdencen->Fill(j.pt());
-            else btdenend->Fill(j.pt());
             btetaden->Fill(j.eta());
             if (bdisc>0.460) {
                 btnum->Fill(j.pt());
-                if (fabs(j.eta())<1.5) btnumcen->Fill(j.pt());
-                else btnumend->Fill(j.pt());
                 btetanum->Fill(j.eta());
             }
         }
         if (match && (abs(jflav)==21 or abs(jflav)<4)) {
             mtden->Fill(j.pt());
-            if (fabs(j.eta())<1.5) mtdencen->Fill(j.pt());
-            else mtdenend->Fill(j.pt());
             mtetaden->Fill(j.eta());
             if (bdisc>0.460) {
                 mtnum->Fill(j.pt());
-                if (fabs(j.eta())<1.5) mtnumcen->Fill(j.pt());
-                else mtnumend->Fill(j.pt());
                 mtetanum->Fill(j.eta());
             }
         }
@@ -342,14 +272,10 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
         }
         if (match) {
             btden3->Fill(tmpvec1.Pt());
-            if (fabs(tmpvec1.Eta())<1.5) btden3cen->Fill(tmpvec1.Pt());
-            else btden3end->Fill(tmpvec1.Pt());
             btetaden3->Fill(tmpvec1.Eta());
             btdist->Fill(tmpvec1.Pt(),tmpvec1.Eta());
             if (bdisc>0.460) {
                 btnum3->Fill(tmpvec1.Pt());
-                if (fabs(tmpvec1.Eta())<1.5) btnum3cen->Fill(tmpvec1.Pt());
-                else btnum3end->Fill(tmpvec1.Pt());
                 btetanum3->Fill(tmpvec1.Eta());
             }
         }
@@ -366,14 +292,10 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
         }
         if (match) {
             mtden3->Fill(tmpvec1.Pt());
-            if (fabs(tmpvec1.Eta())<1.5) mtden3cen->Fill(tmpvec1.Pt());
-            else mtden3end->Fill(tmpvec1.Pt());
             mtden3->Fill(tmpvec1.Eta());
             mtdist->Fill(tmpvec1.Pt(),tmpvec1.Eta());
             if (bdisc>0.460) {
                 mtnum3->Fill(tmpvec1.Pt());
-                if (fabs(tmpvec1.Eta())<1.5) mtnum3cen->Fill(tmpvec1.Pt());
-                else mtnum3end->Fill(tmpvec1.Pt());
                 mtetanum3->Fill(tmpvec1.Eta());
             }
         }
@@ -607,14 +529,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
         if (pid==11) {
             elden->Fill(g.pt());
             eldent->Fill(g.pt());
-            if (fabs(g.eta())<1.4442) {
-                eldencen->Fill(g.pt());
-                eldentcen->Fill(g.pt());
-            }
-            else {
-                eldenend->Fill(g.pt());
-                eldentend->Fill(g.pt());
-            }
             eletaden->Fill(g.eta());
             eletadent->Fill(g.eta());
             eldist->Fill(g.pt(),g.eta());
@@ -626,8 +540,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             }
             if (match) {
                 elnum->Fill(g.pt());
-                if (fabs(g.eta())<1.4442) elnumcen->Fill(g.pt());
-                else elnumend->Fill(g.pt());
                 eletanum->Fill(g.eta());
             }
             match = false;
@@ -639,22 +551,12 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             }
             if (match) {
                 elnumt->Fill(g.pt());
-                if (fabs(g.eta())<1.4442) elnumtcen->Fill(g.pt());
-                else elnumtend->Fill(g.pt());
                 eletanumt->Fill(g.eta());
             }
         }
         if (pid==13) {
             muden->Fill(g.pt());
             mudent->Fill(g.pt());
-            if (fabs(g.eta())<1.2) {
-                mudencen->Fill(g.pt());
-                mudentcen->Fill(g.pt());
-            }
-            else {
-                mudenend->Fill(g.pt());
-                mudentend->Fill(g.pt());
-            }
             muetaden->Fill(g.eta());
             muetadent->Fill(g.eta());
             mudist->Fill(g.pt(),g.eta());
@@ -666,8 +568,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             }
             if (match) {
                 munum->Fill(g.pt());
-                if (fabs(g.eta())<1.2) munumcen->Fill(g.pt());
-                else munumend->Fill(g.pt());
                 muetanum->Fill(g.eta());
             }
             match = false;
@@ -679,8 +579,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             }
             if (match) {
                 munumt->Fill(g.pt());
-                if (fabs(g.eta())<1.2) munumtcen->Fill(g.pt());
-                else munumtend->Fill(g.pt());
                 muetanumt->Fill(g.eta());
             }
         }
@@ -696,14 +594,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
         if (pid==11) {
             elden3->Fill(g.pt());
             eldent3->Fill(g.pt());
-            if (fabs(g.eta())<1.4442) {
-                elden3cen->Fill(g.pt());
-                eldent3cen->Fill(g.pt());
-            }
-            else {
-                elden3end->Fill(g.pt());
-                eldent3end->Fill(g.pt());
-            }
             eletaden3->Fill(g.eta());
             eletadent3->Fill(g.eta());
             for (unsigned int i=0; i<rev.size(); i++) {
@@ -714,8 +604,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             }
             if (match) {
                 elnum3->Fill(g.pt());
-                if (fabs(g.eta())<1.4442) elnum3cen->Fill(g.pt());
-                else elnum3end->Fill(g.pt());
                 eletanum3->Fill(g.eta());
             }
             match = false;
@@ -727,22 +615,12 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             }
             if (match) {
                 elnumt3->Fill(g.pt());
-                if (fabs(g.eta())<1.4442) elnumt3cen->Fill(g.pt());
-                else elnumt3end->Fill(g.pt());
                 eletanumt3->Fill(g.eta());
             }
         }
         if (pid==13) {
             muden3->Fill(g.pt());
             mudent3->Fill(g.pt());
-            if (fabs(g.eta())<1.2) {
-                muden3cen->Fill(g.pt());
-                mudent3cen->Fill(g.pt());
-            }
-            else {
-                muden3end->Fill(g.pt());
-                mudent3end->Fill(g.pt());
-            }
             muetaden3->Fill(g.eta());
             muetadent3->Fill(g.eta());
             for (unsigned int i=0; i<rmv.size(); i++) {
@@ -753,8 +631,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             }
             if (match) {
                 munum3->Fill(g.pt());
-                if (fabs(g.eta())<1.2) munum3cen->Fill(g.pt());
-                else munum3end->Fill(g.pt());
                 muetanum3->Fill(g.eta());
             }
             match = false;
@@ -766,8 +642,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             }
             if (match) {
                 munumt3->Fill(g.pt());
-                if (fabs(g.eta())<1.2) munumt3cen->Fill(g.pt());
-                else munumt3end->Fill(g.pt());
                 muetanumt3->Fill(g.eta());
             }
         }
