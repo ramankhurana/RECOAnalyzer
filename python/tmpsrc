@@ -1,3 +1,0 @@
-nohup cmsRun runEff_zmumu_pu35.py >& out35zmumu.log &
-nohup cmsRun runEff_zmumu_pu140.py >& out140zmumu.log &
-nohup cmsRun runEff_zmumu_pu200.py >& out200zmumu.log &
