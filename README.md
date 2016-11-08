@@ -1,6 +1,6 @@
 # RECOAnalyzer
 #
-# SETUP:
+## SETUP:
 
 ```
 mkdir ECFAProj
@@ -9,7 +9,7 @@ git clone https://github.com/drankincms/RECOAnalyzer.git
 cd RECOAnalyzer
 ```
 
-# RUN:
+## RUN:
 ```
 cd python
 cmsRun runEff.py
