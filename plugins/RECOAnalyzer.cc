@@ -74,6 +74,9 @@ class RECOAnalyzer : public edm::EDAnalyzer {
       edm::EDGetTokenT<reco::BeamSpot> bsToken_;
       edm::EDGetTokenT<std::vector<reco::Conversion>> convToken_;
       edm::EDGetTokenT<std::vector<reco::Muon>> muToken_;
+/*
+ * These are the collections that we plan to import and use in the rest of the analyzer.
+ */
 
       TH1F *nvtx;
       TH1F *elnum, *elden, *munum, *muden, *btnum, *btden;
@@ -87,6 +90,10 @@ class RECOAnalyzer : public edm::EDAnalyzer {
       TH2F *eletacutflow, *muetacutflow;
       TH2F *eldist, *mudist;
       TH2F *btdist, *mtdist;
+
+/*
+ * These are the histograms that we will fill in the analyzer.
+ */
 
       bool debug;
 
@@ -112,14 +119,29 @@ RECOAnalyzer::RECOAnalyzer(const edm::ParameterSet& iConfig):
     convToken_(consumes<std::vector<reco::Conversion>>(iConfig.getParameter<edm::InputTag>("conversions"))),
     muToken_(consumes<std::vector<reco::Muon>>(iConfig.getParameter<edm::InputTag>("muons"))),
     debug(iConfig.getParameter<bool>("debug"))
+/*
+ * This takes the information given in the cmsRun config file (runEff.py) and stores it in the tokens we defined earlier.
+ */
+
 {
     edm::Service<TFileService> fs;
-    nvtx      = fs->make<TH1F>( "nvtx", "nvtx" , 250, 0, 250);
+/*
+ * This defines the fileservice, which allows us to store the histograms we are going to define in a file.
+ */
 
+    nvtx      = fs->make<TH1F>( "nvtx", "nvtx" , 250, 0, 250);
+/*
+ * This is an example of how to define the histograms we are interested in and specify the name/title/binning
+ * The syntax should be self evident (the" fs->make<TH1F>" is required in order for the fileservice file to recognize which histogram you want to save.
+ * A similar syntax can be used to save TTrees and other TObjects
+ */
     elnum     = fs->make<TH1F>( "elnum", "elnum" , 100, 0, 1000);
     elden     = fs->make<TH1F>( "elden", "elden" , 100, 0, 1000);
     elnum3     = fs->make<TH1F>( "elnum3", "elnum3" , 100, 0, 1000);
     elden3     = fs->make<TH1F>( "elden3", "elden3" , 100, 0, 1000);
+/*
+ * The "3" suffix here is meant to indicate the genParticle status code used to define the efficiencies
+ */
     munum     = fs->make<TH1F>( "munum", "munum" , 100, 0, 1000);
     muden     = fs->make<TH1F>( "muden", "muden" , 100, 0, 1000);
     munum3     = fs->make<TH1F>( "munum3", "munum3" , 100, 0, 1000);
@@ -182,6 +204,9 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
     edm::Handle<reco::JetTagCollection> bTagHandle;
     iEvent.getByToken(bToken_, bTagHandle);
     const reco::JetTagCollection & bTags = *(bTagHandle.product());
+/*
+ * This is the standard way to get the collection you are interested in from the input file.
+ */
 
     FlavourMap flavours;
     //Get flavour matching collection
@@ -203,7 +228,7 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
         for (unsigned int i = 0; i != bTags.size(); ++i) {
             TLorentzVector tmpvec1;
             tmpvec1.SetPtEtaPhiE(bTags[i].first->pt(),bTags[i].first->eta(),bTags[i].first->phi(),bTags[i].first->energy());
-            if (tmpvec.DeltaR(tmpvec1)<0.3 && fabs((tmpvec.Pt()-tmpvec1.Pt())/tmpvec.Pt()) < 0.5 ) {
+            if (tmpvec.DeltaR(tmpvec1)<0.3 && fabs((tmpvec.Pt()-tmpvec1.Pt())/tmpvec.Pt()) < 0.5 ) { //this is the matching criteria (dR<0.3 and dpT/pT<0.5)
                  match = true;
                  bdisc = bTags[i].second;
                  edm::RefToBase<reco::Jet> aJet = bTags[i].first;
@@ -214,15 +239,15 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
                  break;
             }
         }
-        if (match && abs(jflav)==5) {
+        if (match && abs(jflav)==5) { //if properly matched and the mcTruth flavour is a b-jet
             btden->Fill(j.pt());
             btetaden->Fill(j.eta());
-            if (bdisc>0.460) {
+            if (bdisc>0.460) { //current (2016) loose operating point
                 btnum->Fill(j.pt());
                 btetanum->Fill(j.eta());
             }
         }
-        if (match && (abs(jflav)==21 or abs(jflav)<4)) {
+        if (match && (abs(jflav)==21 or abs(jflav)<4)) {// if properly matched and mcTrth flavour is not b (udscg)
             mtden->Fill(j.pt());
             mtetaden->Fill(j.eta());
             if (bdisc>0.460) {
@@ -244,7 +269,7 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             if (g.pt() < 20 or g.status()!=3 or abs(g.pdgId())!=5) continue;
             tmpvec1.SetPtEtaPhiE(g.pt(),g.eta(),g.phi(),g.energy());
             //if (tmpvec.DeltaR(tmpvec1)<0.3 && fabs((tmpvec.Pt()-tmpvec1.Pt())/tmpvec.Pt()) < 0.5 ) {
-            if (tmpvec.DeltaR(tmpvec1)<0.3) {
+            if (tmpvec.DeltaR(tmpvec1)<0.3) {// no dpT/pT requirement
                  match = true;
                  bdisc = bTags[i].second;
                  break;
@@ -261,7 +286,7 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
         }
         match = false;
         for (const reco::GenParticle &g : *genparts) {
-            if (g.pt() < 20 or g.status()!=3 or abs(g.pdgId())>3 ) continue;
+            if (g.pt() < 20 or g.status()!=3 or (abs(g.pdgId())>3 and abs(g.pdgId())<=5) ) continue; //only udsg for mistag
             tmpvec1.SetPtEtaPhiE(g.pt(),g.eta(),g.phi(),g.energy());
             //if (tmpvec.DeltaR(tmpvec1)<0.3 && fabs((tmpvec.Pt()-tmpvec1.Pt())/tmpvec.Pt()) < 0.5 ) {
             if (tmpvec.DeltaR(tmpvec1)<0.3) {
