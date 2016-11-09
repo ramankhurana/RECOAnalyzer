@@ -143,16 +143,6 @@ void EffPlot()
         effplot("histo_ttbar", "el", "gen_ttbar", "gen e p_{T}","3",0.,250.);
         effplot("histo_ttbar", "bt", "gen_ttbar", "b quark p_{T}","3",0.,500.);
         effplot("histo_ttbar", "mt", "gen_ttbar", "light quark p_{T}","3",0.,500.);
-        effplot("histo_ttbar", "mu", "tight_ttbar", "gen #mu p_{T}","t",0.,250.);
-        effplot("histo_ttbar", "el", "tight_ttbar", "gen e p_{T}","t",0.,250.);
-        effplot("histo_ttbar", "mu", "gentight_ttbar", "gen #mu p_{T}","t3",0.,250.);
-        effplot("histo_ttbar", "el", "gentight_ttbar", "gen e p_{T}","t3",0.,250.);
-
-        effplot("histo_flatmu", "mu", "flatmu", "gen #mu p_{T}","",0.,250.);
-        effplot("histo_flatmu", "mu", "tight_flatmu", "gen #mu p_{T}","t",0.,250.);
-
-        effplot("histo_zmumu", "mu", "zmumu", "gen #mu p_{T}","",0.,250.);
-        effplot("histo_zmumu", "mu", "tight_zmumu", "gen #mu p_{T}","t",0.,250.);
 
         effplot("histo_ttbar", "mueta", "ttbar", "gen #mu #eta","",-3.,3.,4);
         effplot("histo_ttbar", "eleta", "ttbar", "gen e #eta","",-3.,3.,4);
@@ -162,14 +152,4 @@ void EffPlot()
         effplot("histo_ttbar", "eleta", "gen_ttbar", "gen e #eta","3",-3.,3.,4);
         effplot("histo_ttbar", "bteta", "gen_ttbar", "b quark #eta","3",-3.,3.);
         effplot("histo_ttbar", "mteta", "gen_ttbar", "light quark #eta","3",-3.,3.);
-        effplot("histo_ttbar", "mueta", "tight_ttbar", "gen #mu #eta","t",-3.,3.,4);
-        effplot("histo_ttbar", "eleta", "tight_ttbar", "gen e #eta","t",-3.,3.,4);
-        effplot("histo_ttbar", "mueta", "gentight_ttbar", "gen #mu #eta","t3",-3.,3.,4);
-        effplot("histo_ttbar", "eleta", "gentight_ttbar", "gen e #eta","t3",-3.,3.,4);
-
-        effplot("histo_flatmu", "mueta", "flatmu", "gen #mu #eta","",-3.,3.);
-        effplot("histo_flatmu", "mueta", "tight_flatmu", "gen #mu #eta","t",-3.,3.);
-
-        effplot("histo_zmumu", "mueta", "zmumu", "gen #mu #eta","",-3.,3.);
-        effplot("histo_zmumu", "mueta", "tight_zmumu", "gen #mu #eta","t",-3.,3.);
 }
