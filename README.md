@@ -14,3 +14,7 @@ cd RECOAnalyzer
 cd python
 cmsRun runEff.py
 ```
+## PLOT:
+```
+root -l -b -q EffPlot.C
+```
