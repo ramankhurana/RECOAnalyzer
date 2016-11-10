@@ -1,6 +1,6 @@
 # RECOAnalyzer
 #
-## SETUP:
+## SETUP (using CMSSW_8_1_0_pre15):
 
 ```
 mkdir ECFAProj
