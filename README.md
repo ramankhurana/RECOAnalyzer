@@ -6,6 +6,7 @@
 mkdir ECFAProj
 cd ECFAProj
 git clone https://github.com/drankincms/RECOAnalyzer.git
+scram b -j8
 cd RECOAnalyzer
 ```
 
