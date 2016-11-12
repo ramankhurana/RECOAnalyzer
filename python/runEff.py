@@ -38,7 +38,6 @@ process.check = cms.EDAnalyzer("RECOAnalyzer",
     electrons = cms.InputTag("gedGsfElectrons"),
     beamspot = cms.InputTag("offlineBeamSpot"),
     conversions = cms.InputTag("particleFlowEGamma"),
-    muons = cms.InputTag("muons"),
     debug = cms.bool(True)
 )
 

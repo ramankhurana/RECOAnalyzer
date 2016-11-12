@@ -135,20 +135,16 @@ void effplot(string filename, string name, string save, string xlabel, string su
 
 void EffPlot()
 {
-        effplot("histo_ttbar", "mu", "ttbar", "gen #mu p_{T}","",0.,250.);
         effplot("histo_ttbar", "el", "ttbar", "gen e p_{T}","",0.,250.);
         effplot("histo_ttbar", "bt", "ttbar", "b jet p_{T}","",0.,500.);
         effplot("histo_ttbar", "mt", "ttbar", "guds jet p_{T}","",0.,500.);
-        effplot("histo_ttbar", "mu", "gen_ttbar", "gen #mu p_{T}","3",0.,250.);
         effplot("histo_ttbar", "el", "gen_ttbar", "gen e p_{T}","3",0.,250.);
         effplot("histo_ttbar", "bt", "gen_ttbar", "b quark p_{T}","3",0.,500.);
         effplot("histo_ttbar", "mt", "gen_ttbar", "light quark p_{T}","3",0.,500.);
 
-        effplot("histo_ttbar", "mueta", "ttbar", "gen #mu #eta","",-3.,3.,4);
         effplot("histo_ttbar", "eleta", "ttbar", "gen e #eta","",-3.,3.,4);
         effplot("histo_ttbar", "bteta", "ttbar", "b jet #eta","",-3.,3.);
         effplot("histo_ttbar", "mteta", "ttbar", "guds jet #eta","",-3.,3.);
-        effplot("histo_ttbar", "mueta", "gen_ttbar", "gen #mu #eta","3",-3.,3.,4);
         effplot("histo_ttbar", "eleta", "gen_ttbar", "gen e #eta","3",-3.,3.,4);
         effplot("histo_ttbar", "bteta", "gen_ttbar", "b quark #eta","3",-3.,3.);
         effplot("histo_ttbar", "mteta", "gen_ttbar", "light quark #eta","3",-3.,3.);

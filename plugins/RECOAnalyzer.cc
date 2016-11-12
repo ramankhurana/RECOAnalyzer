@@ -73,22 +73,21 @@ class RECOAnalyzer : public edm::EDAnalyzer {
       edm::EDGetTokenT<std::vector<reco::GsfElectron>> elToken_;
       edm::EDGetTokenT<reco::BeamSpot> bsToken_;
       edm::EDGetTokenT<std::vector<reco::Conversion>> convToken_;
-      edm::EDGetTokenT<std::vector<reco::Muon>> muToken_;
 /*
  * These are the collections that we plan to import and use in the rest of the analyzer.
  */
 
       TH1F *nvtx;
-      TH1F *elnum, *elden, *munum, *muden, *btnum, *btden;
-      TH1F *elnum3, *elden3, *munum3, *muden3, *btnum3, *btden3;
+      TH1F *elnum, *elden, *btnum, *btden;
+      TH1F *elnum3, *elden3, *btnum3, *btden3;
       TH1F *mtnum, *mtden, *mtnum3, *mtden3;
 
-      TH2F *elcutflow, *mucutflow;
-      TH1F *eletanum, *eletaden, *muetanum, *muetaden, *btetanum, *btetaden;
-      TH1F *eletanum3, *eletaden3, *muetanum3, *muetaden3, *btetanum3, *btetaden3;
+      TH2F *elcutflow;
+      TH1F *eletanum, *eletaden, *btetanum, *btetaden;
+      TH1F *eletanum3, *eletaden3, *btetanum3, *btetaden3;
       TH1F *mtetanum, *mtetaden, *mtetanum3, *mtetaden3;
-      TH2F *eletacutflow, *muetacutflow;
-      TH2F *eldist, *mudist;
+      TH2F *eletacutflow;
+      TH2F *eldist;
       TH2F *btdist, *mtdist;
 
 /*
@@ -117,7 +116,6 @@ RECOAnalyzer::RECOAnalyzer(const edm::ParameterSet& iConfig):
     elToken_(consumes<std::vector<reco::GsfElectron>>(iConfig.getParameter<edm::InputTag>("electrons"))),
     bsToken_(consumes<reco::BeamSpot>(iConfig.getParameter<edm::InputTag>("beamspot"))),
     convToken_(consumes<std::vector<reco::Conversion>>(iConfig.getParameter<edm::InputTag>("conversions"))),
-    muToken_(consumes<std::vector<reco::Muon>>(iConfig.getParameter<edm::InputTag>("muons"))),
     debug(iConfig.getParameter<bool>("debug"))
 /*
  * This takes the information given in the cmsRun config file (runEff.py) and stores it in the tokens we defined earlier.
@@ -142,10 +140,6 @@ RECOAnalyzer::RECOAnalyzer(const edm::ParameterSet& iConfig):
 /*
  * The "3" suffix here is meant to indicate the genParticle status code used to define the efficiencies
  */
-    munum     = fs->make<TH1F>( "munum", "munum" , 100, 0, 1000);
-    muden     = fs->make<TH1F>( "muden", "muden" , 100, 0, 1000);
-    munum3     = fs->make<TH1F>( "munum3", "munum3" , 100, 0, 1000);
-    muden3     = fs->make<TH1F>( "muden3", "muden3" , 100, 0, 1000);
     btnum     = fs->make<TH1F>( "btnum", "btnum" , 100, 0, 1000);
     btden     = fs->make<TH1F>( "btden", "btden" , 100, 0, 1000);
     btnum3     = fs->make<TH1F>( "btnum3", "btnum3" , 100, 0, 1000);
@@ -158,10 +152,6 @@ RECOAnalyzer::RECOAnalyzer(const edm::ParameterSet& iConfig):
     eletaden     = fs->make<TH1F>( "eletaden", "eletaden" , 60, -3, 3);
     eletanum3     = fs->make<TH1F>( "eletanum3", "eletanum3" , 60, -3, 3);
     eletaden3     = fs->make<TH1F>( "eletaden3", "eletaden3" , 60, -3, 3);
-    muetanum     = fs->make<TH1F>( "muetanum", "muetanum" , 60, -3, 3);
-    muetaden     = fs->make<TH1F>( "muetaden", "muetaden" , 60, -3, 3);
-    muetanum3     = fs->make<TH1F>( "muetanum3", "muetanum3" , 60, -3, 3);
-    muetaden3     = fs->make<TH1F>( "muetaden3", "muetaden3" , 60, -3, 3);
     btetanum     = fs->make<TH1F>( "btetanum", "btetanum" , 60, -3, 3);
     btetaden     = fs->make<TH1F>( "btetaden", "btetaden" , 60, -3, 3);
     btetanum3     = fs->make<TH1F>( "btetanum3", "btetanum3" , 60, -3, 3);
@@ -171,11 +161,8 @@ RECOAnalyzer::RECOAnalyzer(const edm::ParameterSet& iConfig):
     mtetanum3     = fs->make<TH1F>( "mtetanum3", "mtetanum3" , 60, -3, 3);
     mtetaden3     = fs->make<TH1F>( "mtetaden3", "mtetaden3" , 60, -3, 3);
     elcutflow = fs->make<TH2F>( "elcutflow", "elcutflow", 50, 0., 500., 10, 0.5, 10.5);
-    mucutflow = fs->make<TH2F>( "mucutflow", "mucutflow", 50, 0., 500., 10, 0.5, 10.5);
     eletacutflow = fs->make<TH2F>( "eletacutflow", "eletacutflow", 60, -3., 3., 10, 0.5, 10.5);
-    muetacutflow = fs->make<TH2F>( "muetacutflow", "muetacutflow", 60, -3., 3., 10, 0.5, 10.5);
     eldist = fs->make<TH2F>( "eldist", "eldist", 50, 0., 500., 60, -3., 3.);
-    mudist = fs->make<TH2F>( "mudist", "mudist", 50, 0., 500., 60, -3., 3.);
     btdist = fs->make<TH2F>( "btdist", "btdist", 50, 0., 500., 60, -3., 3.);
     mtdist = fs->make<TH2F>( "mtdist", "mtdist", 50, 0., 500., 60, -3., 3.);
 }
@@ -462,68 +449,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
         retv.push_back(tmpvec);
     }
 
-    edm::Handle<std::vector<reco::Muon>> muons;
-    iEvent.getByToken(muToken_, muons);
-    for (const reco::Muon &m : *muons) {
-        if (m.pt() < 10) continue;
-        if (!(m.innerTrack().isNonnull() and m.innerTrack().isAvailable())) continue;
-        if (!(m.globalTrack().isNonnull() and m.globalTrack().isAvailable())) continue;
-        bool fail = false;
-        mucutflow->Fill(m.pt(),1);
-        muetacutflow->Fill(m.eta(),1);
-        if (!m.isPFMuon()) {
-            fail = true;
-            mucutflow->Fill(m.pt(),2);
-            muetacutflow->Fill(m.eta(),2);
-        }
-        if (!(m.isGlobalMuon() || m.isTrackerMuon())) {
-            fail = true;
-            mucutflow->Fill(m.pt(),3);
-            muetacutflow->Fill(m.eta(),3);
-        }
-        tmpvec.SetPtEtaPhiE(m.pt(),m.eta(),m.phi(),m.energy());
-        if (!fail) {
-            rmv.push_back(tmpvec);
-        }
-        if (m.globalTrack()->normalizedChi2() >= 10) {
-            fail = true;
-            mucutflow->Fill(m.pt(),4);
-            muetacutflow->Fill(m.eta(),4);
-        }
-        if (m.globalTrack()->hitPattern().numberOfValidMuonHits() == 0) {
-            fail = true;
-            mucutflow->Fill(m.pt(),5);
-            muetacutflow->Fill(m.eta(),5);
-        }
-        if (m.numberOfMatchedStations() <= 1) {
-            fail = true;
-            mucutflow->Fill(m.pt(),6);
-            muetacutflow->Fill(m.eta(),6);
-        }
-        if (fabs(m.muonBestTrack()->dxy(PVtx)) >= 0.2) {
-            fail = true;
-            mucutflow->Fill(m.pt(),7);
-            muetacutflow->Fill(m.eta(),7);
-        }
-        if (fabs(m.muonBestTrack()->dz(PVtx)) >= 0.5) {
-            fail = true;
-            mucutflow->Fill(m.pt(),8);
-            muetacutflow->Fill(m.eta(),8);
-        }
-        if (m.innerTrack()->hitPattern().numberOfValidPixelHits() == 0) {
-            fail = true;
-            mucutflow->Fill(m.pt(),9);
-            muetacutflow->Fill(m.eta(),9);
-        }
-        if (m.innerTrack()->hitPattern().trackerLayersWithMeasurement() <= 5) {
-            fail = true;
-            mucutflow->Fill(m.pt(),10);
-            muetacutflow->Fill(m.eta(),10);
-        }
-        if (fail) continue;
-        rmtv.push_back(tmpvec);
-    }
-
     for (const reco::GenParticle &g : *genparts) {
         //std::cout<<"\nGenPart ID"<<g.pdgId()<<" Stat"<<g.status()<<" Pt"<<g.pt();
         if (g.pt() < 10 or g.status()!=1) continue;
@@ -544,21 +469,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             if (match) {
                 elnum->Fill(g.pt());
                 eletanum->Fill(g.eta());
-            }
-        }
-        if (pid==13) {
-            muden->Fill(g.pt());
-            muetaden->Fill(g.eta());
-            mudist->Fill(g.pt(),g.eta());
-            for (unsigned int i=0; i<rmv.size(); i++) {
-                if (tmpvec.DeltaR(rmv[i])<0.3 && fabs((g.pt()-rmv[i].Pt())/g.pt()) < 0.5 ) {
-                    match=true;
-                    break;
-                }
-            }
-            if (match) {
-                munum->Fill(g.pt());
-                muetanum->Fill(g.eta());
             }
         }
     }
@@ -582,20 +492,6 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
             if (match) {
                 elnum3->Fill(g.pt());
                 eletanum3->Fill(g.eta());
-            }
-        }
-        if (pid==13) {
-            muden3->Fill(g.pt());
-            muetaden3->Fill(g.eta());
-            for (unsigned int i=0; i<rmv.size(); i++) {
-                if (tmpvec.DeltaR(rmv[i])<0.3 && fabs((g.pt()-rmv[i].Pt())/g.pt()) < 0.5 ) {
-                    match=true;
-                    break;
-                }
-            }
-            if (match) {
-                munum3->Fill(g.pt());
-                muetanum3->Fill(g.eta());
             }
         }
     }
