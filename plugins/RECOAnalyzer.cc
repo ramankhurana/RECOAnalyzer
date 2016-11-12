@@ -247,7 +247,7 @@ RECOAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSetup)
                 btetanum->Fill(j.eta());
             }
         }
-        if (match && (abs(jflav)==21 or abs(jflav)<4)) {// if properly matched and mcTrth flavour is not b (udscg)
+        if (match && (abs(jflav)==21 or abs(jflav)<4)) {// if properly matched and mcTruth flavour is not b/c (udsg)
             mtden->Fill(j.pt());
             mtetaden->Fill(j.eta());
             if (bdisc>0.460) {
